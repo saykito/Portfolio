@@ -1,0 +1,225 @@
+/* ==========================================================================
+   Portfolio Étudiant – Style Sobre Pro (Cyber / Université)
+   Blocs ajustés + alignement vertical cohérent
+   ========================================================================== */
+
+:root {
+  --bg-main: #1b2030;
+  --bg-secondary: #232a3a;
+  --bg-card: #2b3346;
+
+  --text-main: #e6e9ef;
+  --text-muted: #b8c0d4;
+
+  --primary: #3b82f6;
+  --primary-dark: #2563eb;
+
+  --border: rgba(255,255,255,0.08);
+  --radius: 14px;
+  --shadow: 0 12px 30px rgba(0,0,0,0.35);
+
+  --max: 900px;
+  --pad: 24px;
+
+  --font: ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+          Roboto, Arial, "Noto Sans";
+}
+
+/* =========================
+   RESET
+========================= */
+* {
+  box-sizing: border-box;
+}
+
+/* =========================
+   BASE
+========================= */
+body {
+  margin: 0;
+  font-family: var(--font);
+  color: var(--text-main);
+  background: linear-gradient(
+    180deg,
+    #1b2030 0%,
+    #1c2230 50%,
+    #1a1f2e 100%
+  );
+  line-height: 1.6;
+}
+
+/* =========================
+   HEADER / NAV
+========================= */
+header {
+  background: rgba(35,42,58,0.95);
+  border-bottom: 1px solid var(--border);
+}
+
+.navbar {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 18px var(--pad);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 12px;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-links a {
+  text-decoration: none;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: rgba(255,255,255,0.04);
+}
+
+.nav-links a:hover {
+  color: var(--text-main);
+  background: rgba(255,255,255,0.08);
+}
+
+.nav-links .active {
+  color: #fff;
+  background: linear-gradient(135deg,var(--primary),var(--primary-dark));
+}
+
+/* =========================
+   MAIN
+========================= */
+main {
+  padding: 32px var(--pad);
+}
+
+/* =========================
+   HERO (ACCUEIL)
+========================= */
+.hero {
+  max-width: var(--max);
+  margin: 48px auto 32px auto;
+  padding: 36px;
+
+  background: linear-gradient(180deg,#2b3346,#262d3f);
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+}
+
+/* =========================
+   CONTENU (AUTRES PAGES)
+   👉 ALIGNÉ COMME L’ACCUEIL
+========================= */
+.content {
+  max-width: var(--max);
+  margin: 48px auto 32px auto; /* 🔑 même position verticale que .hero */
+  padding: 26px;
+
+  background: linear-gradient(180deg,#2b3346,#262d3f);
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+}
+
+/* =========================
+   TEXTE
+========================= */
+h2 {
+  margin-top: 0;
+  font-size: 1.8rem;
+}
+
+h3 {
+  margin-top: 20px;
+  margin-bottom: 8px;
+  color: var(--primary);
+}
+
+p {
+  margin: 10px 0;
+}
+
+ul {
+  margin: 10px 0 0 22px;
+}
+
+li {
+  margin: 6px 0;
+  color: var(--text-muted);
+}
+
+/* =========================
+   BOUTON
+========================= */
+.btn {
+  display: inline-block;
+  margin-top: 18px;
+  padding: 10px 22px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 999px;
+  background: linear-gradient(135deg,var(--primary),var(--primary-dark));
+}
+
+/* =========================
+   FOOTER (COLLÉ EN BAS)
+========================= */
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: rgba(35,42,58,0.95);
+  border-top: 1px solid var(--border);
+}
+
+footer p {
+  margin: 0;
+  padding: 14px;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+/* =========================
+   RESPONSIVE
+========================= */
+@media (max-width:720px) {
+  :root { --pad: 16px; }
+
+  .navbar {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .nav-links {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .hero,
+  .content {
+    padding: 22px;
+    margin-top: 32px;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+}
