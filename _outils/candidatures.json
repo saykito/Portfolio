@@ -1,0 +1,158 @@
+{
+ "systup": {
+  "name": "SystUp",
+  "poste": "Stage technicien support informatique",
+  "lieu": "Boulogne-Billancourt",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-systup.pdf",
+  "objet": "Candidature spontanée pour un stage de technicien support informatique",
+  "match": [
+   [
+    "Support et postes de travail",
+    "Vous installez et maintenez les postes de vos clients et assistez leurs utilisateurs.",
+    "J'ai installé et configuré des postes sous Windows et Linux, géré des comptes utilisateurs et rédigé la documentation."
+   ],
+   [
+    "Réseau local et Wi-Fi",
+    "Vos techniciens gèrent le réseau local de PME et TPE.",
+    "J'ai monté un réseau avec routeur et serveur DHCP, et je diagnostique les pannes avec Wireshark, ping et traceroute."
+   ],
+   [
+    "Relation client",
+    "Le support, c'est d'abord de l'écoute et des explications claires.",
+    "Depuis 2023, je gère des locations en saison : demandes des clients, problèmes à régler sur place, calme et réactivité."
+   ]
+  ],
+  "apprendre": "Active Directory et l'administration de serveurs Windows : c'est ce que je viens apprendre auprès de vos techniciens.",
+  "projets": [
+   "net",
+   "boot",
+   "bdd"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage de technicien support informatique. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Votre équipe support installe et maintient les postes, le réseau local et le Wi-Fi de vos clients, et assiste leurs utilisateurs. C'est le cœur du métier que je veux apprendre. En projet, j'ai mis en place un réseau local avec routeur et serveur DHCP, diagnostiqué des pannes avec Wireshark et les commandes ping et traceroute, et installé des postes sous Windows et Linux.",
+   "Je ne maîtrise pas encore Active Directory ou l'administration de serveurs Windows, et c'est justement ce que je viens apprendre auprès de vos techniciens. Je sais en revanche gérer la relation client : depuis 2023, je gère des locations de villas en saison, avec réponse aux demandes et résolution des problèmes sur place. Je suis titulaire du permis B et véhiculé.",
+   "Je serais heureux de vous rencontrer pour en parler."
+  ]
+ },
+ "network-systems": {
+  "name": "Network Systems",
+  "poste": "Stage technicien systèmes et réseaux",
+  "lieu": "Paris, Porte d'Italie",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-network-systems.pdf",
+  "objet": "Candidature pour un stage de technicien systèmes et réseaux",
+  "match": [
+   [
+    "DSI externalisée pour PME",
+    "Vous gérez l'informatique de PME d'Île-de-France : postes, utilisateurs, maintenance.",
+    "J'ai installé et configuré des postes sous Windows et Linux, géré des comptes utilisateurs et documenté mon travail."
+   ],
+   [
+    "Systèmes et réseaux",
+    "Vous concevez et déployez des solutions systèmes et réseaux pour vos clients.",
+    "J'ai monté un réseau avec routeur et serveur DHCP, et je diagnostique les pannes avec Wireshark, ping et traceroute. Je travaille aussi sous Linux avec SSH et Apache."
+   ],
+   [
+    "Interventions chez les clients",
+    "Vos techniciens se déplacent et échangent directement avec les utilisateurs.",
+    "Depuis 2023, je gère des locations en saison : contact client et problèmes à régler sur place. J'ai le permis B et je suis véhiculé."
+   ]
+  ],
+  "apprendre": "Microsoft 365, la virtualisation VMware et l'administration de serveurs en production : c'est ce que je viens découvrir auprès de vos équipes.",
+  "projets": [
+   "net",
+   "boot",
+   "bdd"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée (Université Gustave Eiffel), je vous adresse ma candidature pour un stage de technicien systèmes et réseaux. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Network Systems accompagne les PME d'Île-de-France comme DSI externalisée : support aux utilisateurs, maintenance des parcs, infrastructure et réseau. C'est exactement le terrain sur lequel je veux apprendre. En projet, j'ai mis en place un réseau local avec routeur et serveur DHCP, installé des postes sous Windows et Linux, et diagnostiqué des pannes avec Wireshark et les commandes ping et traceroute.",
+   "Je ne maîtrise pas encore des outils comme Active Directory, la virtualisation en production ou Microsoft 365, et c'est justement ce que je viens découvrir auprès de vos techniciens. Depuis 2023, je gère aussi des locations en saison, ce qui m'a appris le contact direct avec les clients et la résolution de problèmes sur place. Je suis titulaire du permis B et véhiculé, ce qui me permet d'intervenir chez vos clients.",
+   "Motivé et curieux, je serais heureux d'échanger avec vous lors d'un entretien."
+  ]
+ },
+ "mission-locale-paris": {
+  "name": "Mission Locale de Paris",
+  "hello": "Mission Locale",
+  "att": "À l'attention de la Mission Locale de Paris",
+  "ref": "la Mission Locale",
+  "chez": "à la Mission Locale de Paris",
+  "poste": "Stage technicien informatique",
+  "lieu": "Paris",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-mission-locale-paris.pdf",
+  "objet": "Candidature spontanée pour un stage de technicien informatique",
+  "match": [
+   [
+    "Parc informatique",
+    "Votre équipe maintient le parc et équipe les nouveaux salariés.",
+    "J'ai installé et configuré des postes sous Windows et Linux et géré des comptes utilisateurs."
+   ],
+   [
+    "Réseau et pannes",
+    "Il faut que les sites restent connectés et que les pannes soient vite réglées.",
+    "J'ai monté un réseau avec routeur et serveur DHCP, et je cherche l'origine d'une panne avec Wireshark et les commandes de diagnostic."
+   ],
+   [
+    "Accompagnement des utilisateurs",
+    "Les salariés doivent être à l'aise avec leurs outils.",
+    "Depuis 2023, je gère des locations en saison : expliquer simplement, rester calme face à un problème et le régler vite."
+   ]
+  ],
+  "apprendre": "le fonctionnement d'un service informatique au quotidien, aux côtés de votre responsable systèmes et réseaux.",
+  "projets": [
+   "net",
+   "boot",
+   "old"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage d'appui à votre équipe informatique. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Votre équipe informatique maintient le parc, équipe les nouveaux arrivants et les accompagne sur leurs outils. Ce sont des missions concrètes sur lesquelles je veux apprendre. En projet, j'ai installé des postes sous Windows et Linux, géré des comptes utilisateurs et mis en place un réseau avec routeur et serveur DHCP. Je sais aussi chercher l'origine d'une panne avec Wireshark et les commandes de diagnostic.",
+   "Votre mission auprès des jeunes me parle : j'ai moi-même l'âge de votre public. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à expliquer simplement, à rester calme face à un problème et à le régler rapidement. Je suis titulaire du permis B et véhiculé.",
+   "Je serais heureux d'en parler avec vous lors d'un entretien."
+  ]
+ },
+ "seine-saint-denis": {
+  "name": "Département de la Seine-Saint-Denis",
+  "hello": "Seine-Saint-Denis",
+  "ref": "votre direction Données",
+  "chez": "au Département de la Seine-Saint-Denis",
+  "att": "À l'attention de la direction Données, études et connaissances",
+  "poste": "Stage data et bases de données",
+  "lieu": "Seine-Saint-Denis",
+  "cv": "data",
+  "lettre_pdf": "lettre-yasin-boukraa-seine-saint-denis.pdf",
+  "objet": "Candidature spontanée pour un stage au sein de la direction Données, études et connaissances",
+  "match": [
+   [
+    "Fiabiliser les données",
+    "Votre direction traite et fiabilise les données de la collectivité.",
+    "J'ai conçu une base PostgreSQL de bout en bout : modélisation MCD / MLD, contraintes et requêtes SQL."
+   ],
+   [
+    "Traitements et analyses",
+    "Le bureau Traitements et analyses statistiques produit des chiffres pour les politiques publiques.",
+    "Je programme en Python et j'ai intégré des statistiques dans une application web à partir de requêtes SQL."
+   ],
+   [
+    "Servir le territoire",
+    "Vos données servent directement aux habitants de la Seine-Saint-Denis.",
+    "Je veux un premier stage utile : préparer des jeux de données, automatiser des requêtes, aider à mettre à jour des tableaux de bord."
+   ]
+  ],
+  "apprendre": "les outils d'analyse et de gouvernance des données utilisés par vos équipes, sur des cas réels.",
+  "projets": [
+   "bdd",
+   "graph",
+   "old"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage au sein de votre direction Données, études et connaissances. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Votre direction traite et fiabilise les données de la collectivité pour éclairer les politiques publiques. Cela m'attire, car j'aime comprendre comment une base de données est construite et ce qu'on peut en tirer. En projet, j'ai conçu une base PostgreSQL de bout en bout pour la gestion d'un cimetière communal : modélisation MCD et MLD, requêtes SQL, application web et statistiques. Je programme aussi en Python.",
+   "Un stage de 2 mois pourrait par exemple porter sur la préparation et le nettoyage de jeux de données, l'automatisation de requêtes ou l'appui à la mise à jour de tableaux de bord. Je sais que j'ai encore beaucoup à apprendre, et c'est ce que je viens chercher auprès de vos équipes.",
+   "Travailler pour le Département de la Seine-Saint-Denis me motive particulièrement : vos données servent directement aux habitants du territoire. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ]
+ }
+}
