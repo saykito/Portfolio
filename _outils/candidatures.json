@@ -154,5 +154,207 @@
    "Un stage de 2 mois pourrait par exemple porter sur la préparation et le nettoyage de jeux de données, l'automatisation de requêtes ou l'appui à la mise à jour de tableaux de bord. Je sais que j'ai encore beaucoup à apprendre, et c'est ce que je viens chercher auprès de vos équipes.",
    "Travailler pour le Département de la Seine-Saint-Denis me motive particulièrement : vos données servent directement aux habitants du territoire. Je serais heureux d'en parler avec vous lors d'un entretien."
   ]
+ },
+ "champigny-sur-marne": {
+  "name": "Ville de Champigny-sur-Marne",
+  "hello": "Champigny",
+  "ref": "votre DSI",
+  "chez": "à la Ville de Champigny-sur-Marne",
+  "att": "À l'attention de Monsieur le Maire, Direction des systèmes d'information",
+  "poste": "Stage technicien systèmes et réseaux",
+  "lieu": "Hôtel de Ville, Champigny-sur-Marne",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-champigny-sur-marne.pdf",
+  "objet": "Candidature spontanée pour un stage de technicien systèmes et réseaux au sein de la DSI",
+  "match": [
+   [
+    "Utilisateurs et parc",
+    "Votre service Utilisateurs et Applications fait tourner le parc informatique des agents de la ville.",
+    "J'ai installé et configuré des postes sous Windows et Linux et géré des comptes utilisateurs."
+   ],
+   [
+    "Infrastructures",
+    "Votre service Infrastructures maintient le réseau qui relie les bâtiments municipaux.",
+    "J'ai monté un réseau avec routeur et serveur DHCP, et je diagnostique les pannes avec Wireshark, ping et traceroute."
+   ],
+   [
+    "Service aux agents",
+    "Une DSI de collectivité, c'est d'abord des agents qu'on dépanne vite et qu'on rassure.",
+    "Depuis 2023, je gère des locations en saison : écouter, expliquer simplement et régler les problèmes sur place."
+   ]
+  ],
+  "apprendre": "Active Directory et l'administration de serveurs Windows, aux côtés de vos techniciens.",
+  "projets": [
+   "net",
+   "boot",
+   "bdd"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage au sein de votre Direction des systèmes d'information. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Votre DSI, organisée autour des services Utilisateurs et Applications, Infrastructures et Études et Projets, assure le fonctionnement informatique de toute la ville. C'est ce travail concret que je veux découvrir. En projet, j'ai mis en place un réseau local avec routeur et serveur DHCP, installé un poste en dual boot Debian et Windows et diagnostiqué des pannes avec Wireshark et les commandes ping et traceroute.",
+   "Je ne maîtrise pas encore Active Directory ni l'administration de serveurs Windows : c'est justement ce que je viens apprendre auprès de vos équipes. Je sais en revanche gérer la relation avec les usagers : depuis 2023, je gère des locations de villas en saison, avec réponse aux demandes et résolution des problèmes sur place. Je suis titulaire du permis B et véhiculé.",
+   "Travailler pour une collectivité comme Champigny-sur-Marne me motive : votre informatique sert directement les agents et les habitants. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "19 octobre 2026"
+ },
+ "juvisy-sur-orge": {
+  "name": "Ville de Juvisy-sur-Orge",
+  "hello": "Juvisy",
+  "ref": "votre service informatique",
+  "chez": "à la Ville de Juvisy-sur-Orge",
+  "att": "À l'attention de Madame le Maire, Direction des systèmes d'information",
+  "poste": "Stage technicien informatique",
+  "lieu": "6 rue Piver, Juvisy-sur-Orge",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-juvisy-sur-orge.pdf",
+  "objet": "Candidature spontanée pour un stage de technicien informatique",
+  "match": [
+   [
+    "Maintenance du SI",
+    "Votre équipe exploite et maintient les équipements du système d'information de la ville.",
+    "J'ai installé et configuré des postes sous Windows et Linux, avec partitionnement et gestion des utilisateurs."
+   ],
+   [
+    "Réseau, adressage IP, commutateurs",
+    "Vos techniciens travaillent sur le réseau, l'adressage IP et les commutateurs.",
+    "J'ai conçu un réseau avec routeur et serveur DHCP, et je connais l'adressage IP, le routage et les VLAN sur Cisco Packet Tracer."
+   ],
+   [
+    "Aide aux utilisateurs",
+    "Vous accompagnez les agents sur leurs outils et intervenez en premier niveau.",
+    "Depuis 2023, je gère des locations en saison : expliquer simplement, rester calme et régler le problème vite."
+   ]
+  ],
+  "apprendre": "les logiciels métiers et la supervision d'un SI de collectivité, aux côtés de votre équipe.",
+  "projets": [
+   "net",
+   "boot",
+   "old"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage de technicien informatique au sein de votre Direction des systèmes d'information. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Votre service informatique exploite les équipements du système d'information, accompagne les agents sur leurs outils et intervient en premier niveau sur les incidents. Ce sont des missions concrètes sur lesquelles je veux apprendre. En projet, j'ai conçu un réseau avec routeur et serveur DHCP, travaillé l'adressage IP et les VLAN sur Cisco Packet Tracer, et installé un poste en dual boot Debian et Windows.",
+   "Je découvrirais chez vous les logiciels métiers et la supervision d'un système d'information de collectivité, ce que je n'ai pas encore pratiqué. Depuis 2023, je gère des locations de villas en saison : cela m'a appris à expliquer simplement, à rester calme face à un problème et à le régler rapidement. Je suis titulaire du permis B et véhiculé.",
+   "Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "19 octobre 2026"
+ },
+ "celeste": {
+  "name": "Celeste",
+  "poste": "Stage technicien réseaux et télécoms",
+  "lieu": "20 rue Albert Einstein, Champs-sur-Marne",
+  "cv": "reseaux",
+  "lettre_pdf": "lettre-yasin-boukraa-celeste.pdf",
+  "objet": "Candidature spontanée pour un stage de technicien réseaux et télécoms",
+  "match": [
+   [
+    "Opérateur fibre et télécoms",
+    "Vous fournissez aux entreprises la fibre, l'accès Internet et la téléphonie.",
+    "Je connais TCP/IP, l'adressage IP, le routage, le DHCP et le DNS, et j'ai monté un réseau avec routeur et serveur DHCP."
+   ],
+   [
+    "Datacenter Marilyn",
+    "Votre datacenter de Champs-sur-Marne héberge le cloud de vos clients.",
+    "J'administre des machines Linux Debian en Bash et en SSH, et j'ai déjà configuré un serveur Apache."
+   ],
+   [
+    "Diagnostic",
+    "Quand un lien tombe, il faut trouver vite où ça bloque.",
+    "Je cherche l'origine d'une panne avec Wireshark, ping et traceroute, et je documente ce que je fais."
+   ]
+  ],
+  "apprendre": "le fonctionnement d'un réseau d'opérateur et d'un datacenter en production, aux côtés de vos techniciens.",
+  "projets": [
+   "net",
+   "boot",
+   "bdd"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage de technicien réseaux et télécoms. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Celeste fournit aux entreprises la fibre optique, l'accès Internet, la téléphonie et l'hébergement, avec son propre datacenter Marilyn à Champs-sur-Marne. Votre siège est à la Cité Descartes, à côté de mon IUT, et c'est un opérateur de ce type que je veux découvrir de l'intérieur. En projet, j'ai mis en place un réseau avec routeur et serveur DHCP, travaillé le routage et les VLAN sur Cisco Packet Tracer, et diagnostiqué des pannes avec Wireshark.",
+   "Je travaille aussi sous Linux Debian, en Bash et en SSH, et j'ai déjà configuré un serveur Apache. Je sais que je débute : c'est le fonctionnement d'un réseau d'opérateur en production que je viens apprendre auprès de vos équipes. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à rester calme et réactif face à un client qui a un problème. Je suis titulaire du permis B et véhiculé.",
+   "Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "19 octobre 2026"
+ },
+ "autorite-transports": {
+  "name": "Autorité de régulation des transports",
+  "hello": "ART",
+  "ref": "votre direction",
+  "chez": "à l'Autorité de régulation des transports",
+  "att": "À l'attention de la Direction de l'observation des marchés",
+  "poste": "Stage analyse de données",
+  "lieu": "Paris Montparnasse (14e)",
+  "cv": "data",
+  "lettre_pdf": "lettre-yasin-boukraa-autorite-transports.pdf",
+  "objet": "Candidature spontanée pour un stage d'analyse de données (printemps et été 2027)",
+  "match": [
+   [
+    "Données de mobilité",
+    "Votre direction analyse les données de mobilité publiées sur le point d'accès national.",
+    "J'ai conçu une base PostgreSQL de bout en bout : modélisation MCD / MLD, contraintes et requêtes SQL."
+   ],
+   [
+    "Python et SQL",
+    "Vos analyses demandent de collecter, nettoyer et croiser des données.",
+    "Je programme en Python et en SQL, et j'ai intégré des statistiques dans une application web."
+   ],
+   [
+    "Rapport d'analyse",
+    "Un stage chez vous se termine par un rapport clair et rigoureux.",
+    "J'ai rédigé des rapports techniques et soutenu mes projets à l'oral devant un jury."
+   ]
+  ],
+  "apprendre": "les formats de données de mobilité comme DATEX II et les méthodes d'analyse de votre équipe.",
+  "projets": [
+   "bdd",
+   "graph",
+   "old"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage d'analyse de données au sein de votre Direction de l'observation des marchés. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "J'ai vu que votre direction avait accueilli en 2026 un stagiaire de 1re ou 2e année pour analyser les données de mobilité routière publiées sur le point d'accès national. Ce type de mission correspond exactement à ce que je veux faire. En projet, j'ai conçu une base PostgreSQL de bout en bout pour la gestion d'un cimetière communal : modélisation MCD et MLD, requêtes SQL, application web et statistiques. Je programme aussi en Python.",
+   "Je ne connais pas encore le format DATEX II, et c'est le genre de sujet que je viens apprendre auprès de vos économistes, ingénieurs et data analysts. J'ai l'habitude de rédiger des rapports techniques et de présenter mes résultats à l'oral.",
+   "Contribuer au travail d'une autorité publique sur les transports me motive particulièrement. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "19 octobre 2026"
+ },
+ "airparif": {
+  "name": "Airparif",
+  "poste": "Stage données et bases de données",
+  "lieu": "Paris",
+  "cv": "data",
+  "lettre_pdf": "lettre-yasin-boukraa-airparif.pdf",
+  "objet": "Candidature spontanée pour un stage données et bases de données",
+  "match": [
+   [
+    "Mesures en continu",
+    "Votre réseau d'environ 70 stations mesure la qualité de l'air toutes les heures.",
+    "J'ai conçu une base PostgreSQL de bout en bout : modélisation MCD / MLD, contraintes et requêtes SQL."
+   ],
+   [
+    "Données ouvertes",
+    "Vous diffusez vos données au public, notamment en open data.",
+    "Je programme en Python et j'ai intégré des statistiques dans une application web à partir de requêtes SQL."
+   ],
+   [
+    "Un sujet utile",
+    "Vos données servent à informer les Franciliens chaque jour.",
+    "Je veux un premier stage utile : préparer des jeux de données, écrire et automatiser des requêtes, vérifier leur cohérence."
+   ]
+  ],
+  "apprendre": "la façon dont une équipe traite et valide des données de mesure réelles, en volume.",
+  "projets": [
+   "bdd",
+   "graph",
+   "old"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage autour des données et des bases de données. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Airparif mesure la qualité de l'air en Île-de-France avec un réseau d'environ 70 stations, qui produisent des mesures en continu toutes les heures, et met ces données à disposition du public. Travailler sur ces données m'attire, car j'aime comprendre comment une base est construite et ce qu'on peut en tirer. En projet, j'ai conçu une base PostgreSQL de bout en bout : modélisation MCD et MLD, requêtes SQL, application web et statistiques. Je programme aussi en Python.",
+   "Un stage de 2 mois pourrait par exemple porter sur la préparation de jeux de données, l'écriture et l'automatisation de requêtes ou des contrôles de cohérence. Je sais que j'ai encore beaucoup à apprendre sur le traitement de données de mesure, et c'est ce que je viens chercher auprès de vos équipes.",
+   "Votre mission d'information sur la qualité de l'air me parle. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "19 octobre 2026"
  }
 }

@@ -280,7 +280,7 @@ def page(slug, c):
 <h2 class="rv">Ma lettre pour <span class="a">{E(c.get('ref',c['name']))}</span>.</h2>
 <div class="letter">
 <article class="paper rv">
-<div class="hd"><div><b>Yasin Boukraa</b><br>Paris · 07 69 08 68 12<br>yasin.boukraa0@gmail.com</div><div>{E(c.get('att',"À l'attention de "+c['name']))}<br>Locaux : {E(c['lieu'])}<br>Paris, le 14 octobre 2026</div></div>
+<div class="hd"><div><b>Yasin Boukraa</b><br>Paris · 07 69 08 68 12<br>yasin.boukraa0@gmail.com</div><div>{E(c.get('att',"À l'attention de "+c['name']))}<br>Locaux : {E(c['lieu'])}<br>Paris, le {E(c.get('date','14 octobre 2026'))}</div></div>
 <p class="ob">Objet : {E(c['objet'])}</p>
 <p>Madame, Monsieur,</p>{paras}<p>{E(LETTRE_FIN)}</p><p class="sig">Yasin Boukraa</p>
 </article>
