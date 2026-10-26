@@ -356,5 +356,211 @@
    "Votre mission d'information sur la qualité de l'air me parle. Je serais heureux d'en parler avec vous lors d'un entretien."
   ],
   "date": "19 octobre 2026"
+ },
+ "marne-et-gondoire": {
+  "name": "Communauté d'agglomération Marne et Gondoire",
+  "hello": "Marne et Gondoire",
+  "ref": "votre DSI",
+  "chez": "à la DSI de Marne et Gondoire",
+  "att": "À l'attention de Monsieur le Président, Direction des systèmes d'information",
+  "poste": "Stage technicien support et systèmes",
+  "lieu": "Domaine de Rentilly, Bussy-Saint-Martin",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-marne-et-gondoire.pdf",
+  "objet": "Candidature spontanée pour un stage de technicien support et systèmes au sein de la DSI",
+  "match": [
+   [
+    "Un parc mutualisé",
+    "Votre DSI gère environ 1 000 postes pour une douzaine d'entités, des médiathèques aux conservatoires.",
+    "J'ai installé et configuré des postes sous Windows et Linux, partitionnement et comptes utilisateurs compris."
+   ],
+   [
+    "Support de premier niveau",
+    "Les demandes arrivent par la hotline et les tickets GLPI, puis sont réglées à distance ou sur site.",
+    "Je diagnostique une panne réseau avec Wireshark, ping, traceroute et ipconfig, et je sais rendre compte par écrit."
+   ],
+   [
+    "Plusieurs sites",
+    "Vos techniciens se déplacent sur tous les sites de l'agglomération.",
+    "Je suis titulaire du permis B et véhiculé, et j'étudie à l'IUT de Marne-la-Vallée, tout près de Rentilly."
+   ]
+  ],
+  "apprendre": "le support utilisateurs sur un vrai parc, avec GLPI, et les bases d'Active Directory et de la virtualisation VMware aux côtés de vos techniciens.",
+  "projets": [
+   "net",
+   "boot",
+   "old"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage au sein de votre Direction des systèmes d'information. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Votre DSI assure le support d'environ 1 000 postes répartis entre une douzaine d'entités : services de l'agglomération, médiathèques, conservatoires, office de tourisme. Ce travail de terrain est celui que je veux apprendre. En projet, j'ai installé un poste en dual boot Debian et Windows, géré des comptes utilisateurs et mis en place un réseau local avec routeur et serveur DHCP. Je sais aussi chercher l'origine d'une panne avec Wireshark et les commandes de diagnostic.",
+   "Je ne maîtrise pas encore Active Directory, l'administration de serveurs Windows ni la virtualisation VMware : c'est justement ce que je viens apprendre auprès de vos équipes. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à écouter, à expliquer simplement et à régler un problème sur place. Je suis titulaire du permis B et véhiculé, ce qui me permet de me rendre sur vos différents sites.",
+   "Étudier à l'IUT de Marne-la-Vallée, à quelques kilomètres de Rentilly, me donne envie de faire ce stage sur le territoire. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "26 octobre 2026"
+ },
+ "noisy-le-grand": {
+  "name": "Ville de Noisy-le-Grand",
+  "hello": "Noisy-le-Grand",
+  "ref": "votre DSI",
+  "chez": "à la Ville de Noisy-le-Grand",
+  "att": "À l'attention de Madame le Maire, Direction des systèmes d'information",
+  "poste": "Stage technicien informatique",
+  "lieu": "Hôtel de Ville, Noisy-le-Grand",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-noisy-le-grand.pdf",
+  "objet": "Candidature spontanée pour un stage de technicien informatique au sein de la DSI",
+  "match": [
+   [
+    "Postes des agents",
+    "Votre DSI équipe et dépanne les postes de 1 600 agents répartis sur de nombreux sites.",
+    "J'ai installé et configuré des postes sous Windows et Linux et géré des comptes utilisateurs."
+   ],
+   [
+    "Réseau et diagnostic",
+    "Les bâtiments municipaux doivent rester connectés et les incidents vite réglés.",
+    "J'ai monté un réseau avec routeur et serveur DHCP, et je diagnostique avec Wireshark, ping et traceroute."
+   ],
+   [
+    "Accompagnement",
+    "Les agents ont besoin d'aide claire sur leurs outils.",
+    "Depuis 2023, je gère des locations en saison : expliquer simplement, rester calme et régler le problème."
+   ]
+  ],
+  "apprendre": "le support et la gestion d'un parc de collectivité, et les bases d'Active Directory aux côtés de vos techniciens.",
+  "projets": [
+   "net",
+   "boot",
+   "bdd"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage au sein de votre Direction des systèmes d'information. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Avec 1 600 agents et 170 métiers, la Ville de Noisy-le-Grand s'appuie sur une DSI qui installe les postes, suit le parc et accompagne les utilisateurs au quotidien. Ce sont des missions concrètes sur lesquelles je veux progresser. En projet, j'ai installé un poste en dual boot Debian et Windows, géré des comptes utilisateurs et mis en place un réseau local avec routeur et serveur DHCP. Je sais aussi diagnostiquer une panne avec Wireshark et les commandes ping et traceroute.",
+   "Je ne maîtrise pas encore Active Directory ni l'administration de serveurs Windows : c'est ce que je viens apprendre auprès de vos équipes. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à répondre aux demandes et à régler les problèmes sur place. Je suis titulaire du permis B et véhiculé.",
+   "Travailler pour une ville proche de l'université Gustave Eiffel, où j'étudie, me motive : votre informatique sert directement les agents et les habitants. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "26 octobre 2026"
+ },
+ "gpsea": {
+  "name": "Grand Paris Sud Est Avenir",
+  "hello": "GPSEA",
+  "ref": "votre DSIUN",
+  "chez": "à la DSIUN de Grand Paris Sud Est Avenir",
+  "att": "À l'attention de la Direction des ressources humaines, DSIUN",
+  "poste": "Stage technicien systèmes et réseaux",
+  "lieu": "Europarc, Créteil",
+  "cv": "reseaux",
+  "lettre_pdf": "lettre-yasin-boukraa-gpsea.pdf",
+  "objet": "Candidature spontanée pour un stage de technicien systèmes et réseaux au sein de la DSIUN",
+  "match": [
+   [
+    "Plus de 80 sites",
+    "Votre système d'information relie plus de 80 sites et équipe environ 1 300 agents.",
+    "J'ai conçu un réseau avec routeur et serveur DHCP : adressage IP, configuration des équipements, VLAN sous Packet Tracer."
+   ],
+   [
+    "Systèmes, réseaux et cybersécurité",
+    "Votre pôle dédié maintient l'infrastructure et la sécurité du territoire.",
+    "Je travaille sous Linux Debian en ligne de commande : Bash, SSH, Apache, machines virtuelles VirtualBox et VMware."
+   ],
+   [
+    "Assistance de proximité",
+    "Votre pôle d'assistance dépanne les agents sur leurs postes et leurs outils.",
+    "Depuis 2023, je gère des locations en saison : écouter, expliquer simplement et régler les problèmes sur place."
+   ]
+  ],
+  "apprendre": "l'exploitation d'un réseau multisite réel et l'environnement Microsoft 365 d'une collectivité, aux côtés de vos techniciens.",
+  "projets": [
+   "net",
+   "boot",
+   "old"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage au sein de votre Direction des systèmes d'information et des usages numériques. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Votre DSIUN, organisée en trois pôles dont un pôle systèmes, réseaux et cybersécurité et un pôle d'assistance de proximité, fait fonctionner un système d'information qui relie plus de 80 sites et environ 1 300 agents. Le réseau est la partie qui m'attire le plus. En projet, j'ai conçu un réseau avec routeur et serveur DHCP, travaillé l'adressage IP et les VLAN sous Cisco Packet Tracer, et je diagnostique les incidents avec Wireshark, ping et traceroute.",
+   "Je ne maîtrise pas encore Microsoft 365 en entreprise ni Active Directory : c'est ce que je viens apprendre auprès de vos équipes. Je suis à l'aise sous Linux Debian, avec Bash, SSH et les machines virtuelles. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à rester calme face à un problème et à le régler vite. Je suis titulaire du permis B et véhiculé.",
+   "Travailler pour un territoire de 16 communes, où l'informatique sert directement les agents et les habitants, me motive. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "26 octobre 2026"
+ },
+ "pontault-combault": {
+  "name": "Ville de Pontault-Combault",
+  "hello": "Pontault-Combault",
+  "ref": "votre DSI",
+  "chez": "à la Ville de Pontault-Combault",
+  "att": "À l'attention de Monsieur le Maire, Direction des systèmes d'information",
+  "poste": "Stage technicien réseaux et systèmes",
+  "lieu": "Hôtel de Ville, Pontault-Combault",
+  "cv": "reseaux",
+  "lettre_pdf": "lettre-yasin-boukraa-pontault-combault.pdf",
+  "objet": "Candidature spontanée pour un stage de technicien réseaux et systèmes au sein de la DSI",
+  "match": [
+   [
+    "Infrastructure réseau",
+    "Vous faites évoluer l'infrastructure réseau voix, données et images qui relie vos bâtiments.",
+    "J'ai conçu un réseau avec routeur et serveur DHCP et travaillé l'adressage IP et les VLAN sous Packet Tracer."
+   ],
+   [
+    "Postes et utilisateurs",
+    "Votre DSI fait tourner les postes et les outils des agents de la ville.",
+    "J'ai installé et configuré des postes sous Windows et Linux et géré des comptes utilisateurs."
+   ],
+   [
+    "Diagnostic",
+    "Un incident réseau doit être localisé vite pour ne pas bloquer un service.",
+    "J'utilise Wireshark, ping, traceroute et ipconfig pour trouver l'origine d'une panne."
+   ]
+  ],
+  "apprendre": "l'exploitation d'un réseau de collectivité au quotidien, et les bases d'Active Directory et de l'administration Windows aux côtés de vos techniciens.",
+  "projets": [
+   "net",
+   "boot",
+   "bdd"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage au sein de votre Direction des systèmes d'information. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "J'ai vu que la ville avait lancé en 2026 un marché pour la mise en œuvre, le support et la maintenance de son infrastructure réseau voix, données et images. Le réseau est la partie de l'informatique qui m'attire le plus. En projet, j'ai conçu un réseau avec routeur et serveur DHCP, travaillé l'adressage IP et les VLAN sous Cisco Packet Tracer, et je diagnostique les incidents avec Wireshark, ping et traceroute. J'ai aussi installé un poste en dual boot Debian et Windows.",
+   "Je ne maîtrise pas encore Active Directory ni l'administration de serveurs Windows : c'est ce que je viens apprendre auprès de vos équipes. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à écouter, à expliquer simplement et à régler un problème sur place. Je suis titulaire du permis B et véhiculé.",
+   "Travailler pour une collectivité où l'informatique sert directement les agents et les habitants me motive. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "26 octobre 2026"
+ },
+ "bruitparif": {
+  "name": "Bruitparif",
+  "poste": "Stage données et bases de données",
+  "lieu": "Saint-Denis (carrefour Pleyel)",
+  "cv": "data",
+  "lettre_pdf": "lettre-yasin-boukraa-bruitparif.pdf",
+  "objet": "Candidature spontanée pour un stage données et bases de données",
+  "match": [
+   [
+    "Un réseau de mesure",
+    "Vos stations et vos capteurs Méduse mesurent le bruit en continu en Île-de-France.",
+    "J'ai conçu une base PostgreSQL de bout en bout : modélisation MCD / MLD, contraintes et requêtes SQL."
+   ],
+   [
+    "Validation des données",
+    "Les mesures du réseau doivent être vérifiées et validées avant d'être publiées.",
+    "Je programme en Python et j'écris des requêtes SQL pour contrôler et agréger des données."
+   ],
+   [
+    "Données ouvertes",
+    "Vous diffusez vos mesures au public, notamment sur la plateforme Rumeur.",
+    "J'ai intégré des statistiques dans une application web à partir de requêtes SQL."
+   ]
+  ],
+  "apprendre": "la façon dont une équipe vérifie, valide et diffuse des données de mesure réelles, en volume.",
+  "projets": [
+   "bdd",
+   "graph",
+   "old"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage autour des données et des bases de données. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Bruitparif mesure le bruit en Île-de-France avec un réseau de stations et de capteurs, valide ces mesures et les met à disposition du public, notamment sur la plateforme Rumeur. Travailler sur ces données m'attire, car j'aime comprendre comment une base est construite et ce qu'on peut en tirer. En projet, j'ai conçu une base PostgreSQL de bout en bout : modélisation MCD et MLD, requêtes SQL, application web et statistiques. Je programme aussi en Python.",
+   "Je sais que vos stages portent souvent sur l'acoustique, domaine que je ne connais pas. Un stage de 2 mois pourrait par exemple porter sur la préparation de jeux de données, l'automatisation de requêtes ou des contrôles de cohérence sur les mesures. C'est le traitement de données de mesure réelles que je viens apprendre auprès de votre équipe.",
+   "Votre mission d'information des Franciliens sur le bruit me parle. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "26 octobre 2026"
  }
 }
