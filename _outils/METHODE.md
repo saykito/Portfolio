@@ -57,3 +57,9 @@ Yasin Boukraa
 yasin.boukraa0@gmail.com
 
 Note : le connecteur Gmail réécrit les liens en redirection Google. Le signaler à Yasin, qui peut recoller les liens lui-même avant d'envoyer.
+
+## Tableau Excel de suivi (Google Drive)
+- Source : `_outils/suivi.json` (une ligne par entreprise : nom, ville, type, CV, mode, contact, date d'envoi, statut, dernière réponse, date de réponse, prochaine action, slug).
+- Statuts possibles : À envoyer, À vérifier, Envoyée, Relancée, En cours, Entretien, Refus, En pause.
+- À chaque changement (nouvelle cible, envoi, réponse) : mettre à jour `suivi.json` (et `maj`), lancer `python3 _outils/suivi_xlsx.py`, recalculer le fichier (script recalc du skill xlsx), puis l'envoyer sur le Drive de Yasin sous le titre « Suivi candidatures stage 2027 - Yasin Boukraa.xlsx » (create_file, base64, disableConversionToGoogleType = true), mettre le trash_file sur l'ancien `drive_file_id` et enregistrer le nouvel id dans `suivi.json`.
+- Le connecteur Drive ne permet pas de remplacer le contenu d'un fichier : le lien change à chaque mise à jour, le nom reste le même.
