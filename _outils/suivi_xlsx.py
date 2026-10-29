@@ -58,3 +58,24 @@ b.cell(t + 3, 2, f'=COUNTIF({rng},"En cours")+COUNTIF({rng},"Entretien")+COUNTIF
 b.cell(t + 5, 1, "Le statut se choisit dans la liste déroulante de la colonne I de l'onglet Suivi ; ce tableau se met à jour tout seul.").font = Font(name=F, size=9, italic=True, color="595959")
 b.column_dimensions["A"].width = 38; b.column_dimensions["B"].width = 10
 wb.save(OUT); print(OUT)
+
+# Export CSV pour Google Sheets (upload texte fiable via le connecteur Drive)
+import csv
+CSV = os.path.join(ROOT, "_outils", "suivi-candidatures-yasin-boukraa.csv")
+with open(CSV, "w", encoding="utf-8", newline="") as f:
+    w = csv.writer(f)
+    n = len(d["lignes"])
+    w.writerow(H + ["", "Bilan", "Nombre"])
+    sts = [L[7] for L in d["lignes"]]
+    bil = [(s, sts.count(s)) for s in STATUTS]
+    bil += [("Total", n),
+            ("Mails ou formulaires partis", sum(1 for L in d["lignes"] if L[6])),
+            ("Réponses reçues (hors accusés auto)", sum(sts.count(s) for s in ("En cours", "Entretien", "Refus"))),
+            ("Mis à jour le", d["maj"])]
+    for i, L in enumerate(d["lignes"]):
+        name, ville, typ, cv, mode, contact, env, st, rep, repd, action, slug = L
+        row = [i + 1, name, ville, typ, cv, mode, contact, env, st, rep, repd, action,
+               f"https://saykito.github.io/Portfolio/candidature/{slug}/" if slug else ""]
+        row += ["", bil[i][0], bil[i][1]] if i < len(bil) else []
+        w.writerow(row)
+print(CSV)

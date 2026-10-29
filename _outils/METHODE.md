@@ -58,8 +58,10 @@ yasin.boukraa0@gmail.com
 
 Note : le connecteur Gmail réécrit les liens en redirection Google. Le signaler à Yasin, qui peut recoller les liens lui-même avant d'envoyer.
 
-## Tableau Excel de suivi (Google Drive)
+## Tableau de suivi (Google Sheets sur le Drive de Yasin)
 - Source : `_outils/suivi.json` (une ligne par entreprise : nom, ville, type, CV, mode, contact, date d'envoi, statut, dernière réponse, date de réponse, prochaine action, slug).
 - Statuts possibles : À envoyer, À vérifier, Envoyée, Relancée, En cours, Entretien, Refus, En pause.
-- À chaque changement (nouvelle cible, envoi, réponse) : mettre à jour `suivi.json` (et `maj`), lancer `python3 _outils/suivi_xlsx.py`, recalculer le fichier (script recalc du skill xlsx), puis l'envoyer sur le Drive de Yasin sous le titre « Suivi candidatures stage 2027 - Yasin Boukraa.xlsx » (create_file, base64, disableConversionToGoogleType = true), mettre le trash_file sur l'ancien `drive_file_id` et enregistrer le nouvel id dans `suivi.json`.
-- Le connecteur Drive ne permet pas de remplacer le contenu d'un fichier : le lien change à chaque mise à jour, le nom reste le même.
+- À chaque changement (nouvelle cible, envoi, réponse) : mettre à jour `suivi.json` (et `maj`), lancer `python3 _outils/suivi_xlsx.py` (génère le .xlsx local et `suivi-candidatures-yasin-boukraa.csv`).
+- Envoi sur le Drive : create_file avec `textContent` = contenu du CSV, `contentMimeType` = text/csv, titre « Suivi candidatures stage 2027 - Yasin Boukraa » (converti en Google Sheets). Vérifier avec read_file_content, puis trash_file sur l'ancien `drive_file_id` et enregistrer le nouvel id dans `suivi.json`.
+- Ne jamais envoyer le .xlsx en base64 : recopier un fichier binaire à la main le corrompt.
+- Le connecteur Drive ne remplace pas le contenu d'un fichier : le lien change à chaque mise à jour, le nom reste le même.
