@@ -59,9 +59,11 @@ yasin.boukraa0@gmail.com
 Note : le connecteur Gmail réécrit les liens en redirection Google. Le signaler à Yasin, qui peut recoller les liens lui-même avant d'envoyer.
 
 ## Tableau de suivi (Google Sheets sur le Drive de Yasin)
-- Source : `_outils/suivi.json` (une ligne par entreprise : nom, ville, type, CV, mode, contact, date d'envoi, statut, dernière réponse, date de réponse, prochaine action, slug).
+- Fichier unique : https://docs.google.com/spreadsheets/d/1YmmzHb8lhMU_8OPkgO3EAZd-bAupLOtnasm44iQfXh8 (id dans `suivi.json`, champ `drive_file_id`). Ne jamais en créer un autre.
+- Le modifier en place avec le connecteur Google Sheets (get_values, update_values, update_spreadsheet). Toujours lire l'onglet avant d'écrire : Yasin peut changer un statut lui-même.
+- Onglet « Suivi » : titre en A1, date de mise à jour en A2 (« ... · mis à jour le JJ/MM/AAAA »), en-têtes en ligne 4, une ligne par entreprise à partir de la ligne 5. Colonnes : # | Entreprise | Ville | Type | CV | Mode | Contact | Envoyée le (date) | Statut (liste déroulante) | Dernière réponse | Réponse le (date) | Prochaine action | Page (=HYPERLINK(url;"Voir la page")).
 - Statuts possibles : À envoyer, À vérifier, Envoyée, Relancée, En cours, Entretien, Refus, En pause.
-- À chaque changement (nouvelle cible, envoi, réponse) : mettre à jour `suivi.json` (et `maj`), lancer `python3 _outils/suivi_xlsx.py` (génère le .xlsx local et `suivi-candidatures-yasin-boukraa.csv`).
-- Envoi sur le Drive : create_file avec `textContent` = contenu du CSV, `contentMimeType` = text/csv, titre « Suivi candidatures stage 2027 - Yasin Boukraa » (converti en Google Sheets). Vérifier avec read_file_content, puis trash_file sur l'ancien `drive_file_id` et enregistrer le nouvel id dans `suivi.json`.
-- Ne jamais envoyer le .xlsx en base64 : recopier un fichier binaire à la main le corrompt.
-- Le connecteur Drive ne remplace pas le contenu d'un fichier : le lien change à chaque mise à jour, le nom reste le même.
+- Onglet « Bilan » : formules COUNTIF qui se recalculent seules, rien à modifier.
+- Le classeur est en français : séparateur « ; » dans les formules (une virgule donne #ERROR!).
+- Nouvelle cible : écrire la ligne juste sous la dernière ligne remplie (la mise en forme, la liste et les couleurs couvrent jusqu'à la ligne 200 ; prolonger les bandes alternées si besoin).
+- Garder `_outils/suivi.json` à jour en parallèle (copie de secours dans le repo).
