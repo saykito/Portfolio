@@ -58,6 +58,12 @@ yasin.boukraa0@gmail.com
 
 Note : le connecteur Gmail réécrit les liens en redirection Google. Le signaler à Yasin, qui peut recoller les liens lui-même avant d'envoyer.
 
+## Alertes emploi dans Gmail (à chaque lot)
+- Chercher dans Gmail les alertes des 7 derniers jours : `newer_than:7d (from:indeed.com OR from:linkedin.com OR from:hellowork OR from:welcometothejungle OR from:jobteaser)`.
+- Garder seulement ce où Yasin peut réellement être pris : vrai stage (pas alternance, pas VIE), 2 à 4 mois possibles, accessible en BUT 2e année (pas « stage ingénieur », pas Bac+4/5 ou Master exigé), pas 6 mois minimum, Île-de-France, réseau / systèmes / support / data. Exclure les écoles, CFA et organismes de formation (ISCOD, Studi, etc.).
+- Les pages Indeed et LinkedIn ne sont pas lisibles par les outils : vérifier l'offre sur le site carrières de l'employeur. Si c'est impossible, la lister dans le message final comme « piste à vérifier par Yasin » avec le lien de l'alerte, sans préparer de candidature.
+- Une offre vérifiée et valable peut compter dans les 5 cibles du lot.
+
 ## Tableau de suivi (Google Sheets sur le Drive de Yasin)
 - Fichier unique : https://docs.google.com/spreadsheets/d/1YmmzHb8lhMU_8OPkgO3EAZd-bAupLOtnasm44iQfXh8 (id dans `suivi.json`, champ `drive_file_id`). Ne jamais en créer un autre.
 - Le modifier en place avec le connecteur Google Sheets (get_values, update_values, update_spreadsheet). Toujours lire l'onglet avant d'écrire : Yasin peut changer un statut lui-même.
