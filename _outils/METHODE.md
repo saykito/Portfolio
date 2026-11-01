@@ -67,8 +67,9 @@ Note : le connecteur Gmail réécrit les liens en redirection Google. Le signale
 ## Tableau de suivi (Google Sheets sur le Drive de Yasin)
 - Fichier unique : https://docs.google.com/spreadsheets/d/1YmmzHb8lhMU_8OPkgO3EAZd-bAupLOtnasm44iQfXh8 (id dans `suivi.json`, champ `drive_file_id`). Ne jamais en créer un autre.
 - Le modifier en place avec le connecteur Google Sheets (get_values, update_values, update_spreadsheet). Toujours lire l'onglet avant d'écrire : Yasin peut changer un statut lui-même.
-- Onglet « Suivi » : titre en A1, date de mise à jour en A2 (« ... · mis à jour le JJ/MM/AAAA »), en-têtes en ligne 4, une ligne par entreprise à partir de la ligne 5. Colonnes : # | Entreprise | Ville | Type | CV | Mode | Contact | Envoyée le (date) | Statut (liste déroulante) | Dernière réponse | Réponse le (date) | Prochaine action | Page (=HYPERLINK(url;"Voir la page")).
+- Onglet « Suivi » : titre en A1, date de mise à jour en A2 (« ... · mis à jour le JJ/MM/AAAA »), en-têtes en ligne 4, une ligne par entreprise à partir de la ligne 5. Colonnes : # | Entreprise | Ville | Type | CV | Mode | Contact | Envoyée le (date) | Statut (liste déroulante) | Dernière réponse | Réponse le (date) | Prochaine action | Page (=HYPERLINK(url;"Voir la page")) | Téléphone.
 - Statuts possibles : À envoyer, À vérifier, Envoyée, Relancée, En cours, Entretien, Refus, En pause.
+- Colonne Téléphone : seulement un numéro lu sur une page officielle ou dans un mail de l'employeur, avec qui il joint (RH, standard). Ne jamais deviner. Dans le message final, signaler qui vaut le coup d'appeler (réponse en cours, relance due).
 - Onglet « Bilan » : formules COUNTIF qui se recalculent seules, rien à modifier.
 - Le classeur est en français : séparateur « ; » dans les formules (une virgule donne #ERROR!).
 - Nouvelle cible : écrire la ligne juste sous la dernière ligne remplie (la mise en forme, la liste et les couleurs couvrent jusqu'à la ligne 200 ; prolonger les bandes alternées si besoin).
