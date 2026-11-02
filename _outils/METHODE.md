@@ -29,7 +29,7 @@ Ce dossier commence par `_` : GitHub Pages ne le publie pas.
    Choix du CV : technicien = support/systèmes et réseaux généraliste ; reseaux = orienté réseau/infra ; data = données/BDD.
 2. Lancer `python3 _outils/build.py <slug>` : génère `candidature/<slug>/index.html` et la lettre PDF (vérifier « lettre sur 1 page »).
 3. Commit + push sur `main`. Page en ligne : `https://saykito.github.io/Portfolio/candidature/<slug>/` (vérifier qu'elle répond).
-4. Si l'entreprise a une adresse mail : brouillon Gmail sur le modèle ci-dessous. Si c'est un formulaire : préparer le message à coller et la liste des fichiers.
+4. Si l'entreprise a une adresse mail : brouillon Gmail sur le modèle ci-dessous. Si c'est un formulaire : préparer le message à coller et la liste des fichiers, et envoyer directement à Yasin dans la conversation (SendUserFile) les PDF à téléverser : le CV choisi (`cv-yasin-boukraa-<cv>.pdf` à la racine) et la lettre (`candidature/<slug>/<lettre_pdf>`).
 5. Mettre à jour le doc de suivi (ligne du tableau + section avec mail et lettre).
 6. Ne jamais envoyer : Yasin relit et envoie lui-même.
 
