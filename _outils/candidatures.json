@@ -562,5 +562,215 @@
    "Votre mission d'information des Franciliens sur le bruit me parle. Je serais heureux d'en parler avec vous lors d'un entretien."
   ],
   "date": "26 octobre 2026"
+ },
+ "creteil": {
+  "name": "Ville de Créteil",
+  "hello": "Créteil",
+  "ref": "la Ville de Créteil",
+  "chez": "à la Ville de Créteil",
+  "att": "À l'attention du service des stages, Direction des systèmes d'information",
+  "poste": "Stage technicien informatique",
+  "lieu": "Hôtel de Ville, Créteil",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-creteil.pdf",
+  "objet": "Candidature spontanée pour un stage de technicien informatique au sein de la DSI",
+  "match": [
+   [
+    "Postes des agents",
+    "Les services de la ville et du CCAS travaillent tous les jours sur leurs postes et leurs outils.",
+    "J'ai installé et configuré des postes sous Windows et Linux et géré des comptes utilisateurs."
+   ],
+   [
+    "Réseau entre les sites",
+    "Mairie, écoles, équipements : les bâtiments de la ville doivent rester connectés.",
+    "J'ai monté un réseau avec routeur et serveur DHCP et travaillé l'adressage IP et les VLAN sous Packet Tracer."
+   ],
+   [
+    "Support aux utilisateurs",
+    "Un agent bloqué attend une réponse claire et rapide.",
+    "Depuis 2023, je gère des locations en saison : écouter, expliquer simplement et régler un problème sur place."
+   ]
+  ],
+  "apprendre": "le fonctionnement d'une DSI de grande ville au quotidien, et les bases d'Active Directory et de l'administration Windows aux côtés de vos techniciens.",
+  "projets": [
+   "net",
+   "boot",
+   "old"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage au sein de la Direction des systèmes d'information de la Ville de Créteil. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Votre page dédiée aux stages indique que les services de la ville accueillent des stagiaires toute l'année. Je souhaite rejoindre l'équipe qui fait tourner les postes, le réseau et les outils des agents. En projet, j'ai monté un réseau avec routeur et serveur DHCP, travaillé l'adressage IP et les VLAN sous Cisco Packet Tracer, installé un poste en dual boot Debian et Windows, et je diagnostique les pannes avec Wireshark, ping et traceroute.",
+   "Je ne maîtrise pas encore Active Directory ni l'administration de serveurs Windows : c'est ce que je viens apprendre auprès de vos équipes. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à écouter, à expliquer simplement et à garder mon calme face à un problème. Je suis titulaire du permis B et véhiculé.",
+   "Travailler pour une collectivité où l'informatique sert directement les agents et les habitants me motive. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "2 novembre 2026"
+ },
+ "val-de-marne": {
+  "name": "Département du Val-de-Marne",
+  "hello": "Val-de-Marne",
+  "ref": "le Département",
+  "chez": "au Département du Val-de-Marne",
+  "att": "À l'attention de la Direction des ressources humaines, pour la Direction des systèmes d'information",
+  "poste": "Stage technicien systèmes et réseaux",
+  "lieu": "Hôtel du Département, Créteil",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-val-de-marne.pdf",
+  "objet": "Candidature pour un stage de technicien systèmes et réseaux au sein de la DSI",
+  "match": [
+   [
+    "Un grand système d'information",
+    "Le Département fait travailler de nombreux agents répartis sur plusieurs sites du Val-de-Marne.",
+    "J'ai monté un réseau avec routeur et serveur DHCP et travaillé l'adressage IP et les VLAN sous Packet Tracer."
+   ],
+   [
+    "Postes et serveurs",
+    "Les postes et les serveurs doivent être installés, mis à jour et suivis.",
+    "J'ai installé un poste en dual boot Debian et Windows et configuré un serveur Apache sous Linux, en SSH."
+   ],
+   [
+    "Diagnostic et support",
+    "Un incident doit être compris vite pour ne pas bloquer un service public.",
+    "J'utilise Wireshark, ping, traceroute et ipconfig, et je sais expliquer simplement une solution."
+   ]
+  ],
+  "apprendre": "l'exploitation d'un système d'information de grande collectivité, et les bases d'Active Directory et de l'administration Windows aux côtés de vos équipes.",
+  "projets": [
+   "net",
+   "boot",
+   "bdd"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature pour un stage au sein de la Direction des systèmes d'information du Département du Val-de-Marne, en réponse à votre offre de stages tous secteurs. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Le système d'information d'un département sert des agents répartis sur de nombreux sites, et c'est ce côté systèmes et réseaux qui m'attire. En projet, j'ai monté un réseau avec routeur et serveur DHCP, travaillé l'adressage IP et les VLAN sous Cisco Packet Tracer, installé un poste en dual boot Debian et Windows et configuré Apache sous Linux. Je diagnostique les pannes avec Wireshark, ping et traceroute.",
+   "Je ne maîtrise pas encore Active Directory ni l'administration de serveurs Windows : c'est ce que je viens apprendre auprès de vos équipes. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris le contact et la rigueur. Je suis titulaire du permis B et véhiculé.",
+   "Contribuer, même modestement, au bon fonctionnement d'un service public utilisé par tout un département me motive. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "2 novembre 2026"
+ },
+ "rosny-sous-bois": {
+  "name": "Ville de Rosny-sous-Bois",
+  "hello": "Rosny-sous-Bois",
+  "ref": "la Ville de Rosny-sous-Bois",
+  "chez": "à la Ville de Rosny-sous-Bois",
+  "att": "À l'attention de Madame la Maire, Direction des systèmes d'information",
+  "poste": "Stage technicien informatique",
+  "lieu": "Hôtel de Ville, Rosny-sous-Bois",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-rosny-sous-bois.pdf",
+  "objet": "Candidature spontanée pour un stage de technicien informatique au sein du service informatique",
+  "match": [
+   [
+    "Parc informatique",
+    "Les agents de la mairie, des écoles et des équipements ont besoin de postes qui marchent.",
+    "J'ai installé et configuré des postes sous Windows et Linux et géré des comptes utilisateurs."
+   ],
+   [
+    "Réseau",
+    "Les bâtiments de la ville doivent rester reliés au réseau et aux applications métier.",
+    "J'ai monté un réseau avec routeur et serveur DHCP et travaillé l'adressage IP et les VLAN."
+   ],
+   [
+    "Assistance",
+    "Un agent qui appelle le support veut une réponse claire.",
+    "Depuis 2023, je gère des locations en saison : écouter, expliquer simplement et régler un problème vite."
+   ]
+  ],
+  "apprendre": "le support informatique d'une ville au quotidien, et les bases d'Active Directory et de l'administration Windows aux côtés de vos techniciens.",
+  "projets": [
+   "net",
+   "boot",
+   "old"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage au sein du service informatique de la Ville de Rosny-sous-Bois. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Dans une ville, le service informatique fait tourner les postes et le réseau de la mairie, des écoles et des équipements municipaux. C'est ce travail de terrain qui m'intéresse. En projet, j'ai monté un réseau avec routeur et serveur DHCP, travaillé l'adressage IP et les VLAN sous Cisco Packet Tracer, installé un poste en dual boot Debian et Windows, et je diagnostique les pannes avec Wireshark, ping et traceroute.",
+   "Je ne maîtrise pas encore Active Directory ni l'administration de serveurs Windows : c'est ce que je viens apprendre auprès de vos équipes. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à écouter, à expliquer simplement et à régler un problème sur place. Je suis titulaire du permis B et véhiculé.",
+   "Travailler pour une collectivité où l'informatique sert directement les agents et les habitants me motive. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "2 novembre 2026"
+ },
+ "vincennes": {
+  "name": "Ville de Vincennes",
+  "hello": "Vincennes",
+  "ref": "la Ville de Vincennes",
+  "chez": "à la Ville de Vincennes",
+  "att": "À l'attention de la Direction des ressources humaines, pour le service informatique",
+  "poste": "Stage technicien systèmes et réseaux",
+  "lieu": "Hôtel de Ville, Vincennes",
+  "cv": "reseaux",
+  "lettre_pdf": "lettre-yasin-boukraa-vincennes.pdf",
+  "objet": "Candidature spontanée pour un stage de technicien systèmes et réseaux au sein du service informatique",
+  "match": [
+   [
+    "Réseau de la ville",
+    "Mairie, écoles et équipements municipaux partagent le même réseau.",
+    "J'ai conçu un réseau avec routeur et serveur DHCP et travaillé l'adressage IP et les VLAN sous Packet Tracer."
+   ],
+   [
+    "Services en ligne",
+    "Vos démarches en ligne doivent rester disponibles pour les habitants.",
+    "J'ai configuré un serveur Apache sous Linux et développé des applications web en PHP sur une base PostgreSQL."
+   ],
+   [
+    "Diagnostic",
+    "Une panne réseau doit être localisée vite.",
+    "J'utilise Wireshark, ping, traceroute et ipconfig pour trouver l'origine d'un incident."
+   ]
+  ],
+  "apprendre": "l'exploitation d'un réseau de collectivité au quotidien, et les bases d'Active Directory et de l'administration Windows aux côtés de vos techniciens.",
+  "projets": [
+   "net",
+   "boot",
+   "bdd"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage au sein du service informatique de la Ville de Vincennes. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "La ville accueille des stagiaires dans la plupart de ses services, et propose à ses habitants des démarches en ligne. Je souhaite rejoindre l'équipe qui fait tourner le réseau, les postes et ces services. En projet, j'ai conçu un réseau avec routeur et serveur DHCP, travaillé l'adressage IP et les VLAN sous Cisco Packet Tracer, configuré Apache sous Linux et développé une application web sur une base PostgreSQL.",
+   "Je ne maîtrise pas encore Active Directory ni l'administration de serveurs Windows : c'est ce que je viens apprendre auprès de vos équipes. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris le contact et la rigueur. Je suis titulaire du permis B et véhiculé.",
+   "Travailler pour une collectivité où l'informatique sert directement les agents et les habitants me motive. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "2 novembre 2026"
+ },
+ "orsnp-idf": {
+  "name": "Observatoire régional des soins non programmés d'Île-de-France",
+  "hello": "ORSNP IDF",
+  "ref": "l'ORSNP",
+  "chez": "à l'ORSNP IDF",
+  "att": "À l'attention de Madame Sonia Larid, Directrice administrative",
+  "poste": "Stage données",
+  "lieu": "13 rue du Landy, Saint-Denis",
+  "cv": "data",
+  "lettre_pdf": "lettre-yasin-boukraa-orsnp-idf.pdf",
+  "objet": "Candidature spontanée pour un stage autour des données",
+  "match": [
+   [
+    "Extraction et nettoyage",
+    "Vous extrayez des données de plusieurs bases sur les urgences franciliennes, puis vous les nettoyez.",
+    "J'écris des requêtes SQL sur PostgreSQL et je programme en Python pour contrôler et agréger des données."
+   ],
+   [
+    "Indicateurs",
+    "Vous calculez des indicateurs sur l'activité et la tension des urgences.",
+    "J'ai intégré des statistiques calculées en SQL dans une application web."
+   ],
+   [
+    "Bases de données",
+    "Vos analyses reposent sur des données bien structurées.",
+    "J'ai conçu une base PostgreSQL de bout en bout : modélisation MCD / MLD, contraintes et requêtes."
+   ]
+  ],
+  "apprendre": "la façon dont un observatoire transforme des données de santé réelles en indicateurs utiles aux professionnels.",
+  "projets": [
+   "bdd",
+   "graph",
+   "old"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage autour des données au sein de l'ORSNP IDF. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Votre observatoire suit les urgences et les soins non programmés en Île-de-France : extraction de données, nettoyage, calcul d'indicateurs et visualisations. C'est exactement le type de travail qui m'attire. En projet, j'ai conçu une base PostgreSQL de bout en bout (modélisation MCD et MLD, requêtes SQL, application web avec statistiques) et je programme en Python.",
+   "Je ne connais pas encore le monde des soins d'urgence ni des outils comme R ou SAS : c'est ce que je viens découvrir. Mes dates me permettent un stage de 3 mois ou plus entre avril et fin août 2027. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris la rigueur et le contact. Je suis titulaire du permis B et véhiculé.",
+   "Mettre mes compétences au service d'une mission de santé publique me motive. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "2 novembre 2026"
  }
 }
