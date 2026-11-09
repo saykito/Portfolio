@@ -1,5 +1,5 @@
 {
- "maj": "02/11/2026",
+ "maj": "09/11/2026",
  "drive_file_id": "1YmmzHb8lhMU_8OPkgO3EAZd-bAupLOtnasm44iQfXh8",
  "lignes": [
   [
@@ -13,7 +13,7 @@
    "Envoyée",
    "Aucune réponse",
    "",
-   "Relancer la semaine du 2 novembre",
+   "Relance en retard (prévue semaine du 2/11)",
    "network-systems"
   ],
   [
@@ -41,7 +41,7 @@
    "Envoyée",
    "Aucune réponse",
    "",
-   "Relancer la semaine du 2 novembre",
+   "Relance en retard (prévue semaine du 2/11)",
    "systup"
   ],
   [
@@ -69,7 +69,7 @@
    "Envoyée",
    "Accusé de réception automatique",
    "14/10/2026",
-   "Relancer la semaine du 2 novembre",
+   "Relance en retard (prévue semaine du 2/11)",
    "mission-locale-paris"
   ],
   [
@@ -164,10 +164,10 @@
    "Mail",
    "recrutement@marneetgondoire.fr",
    "29/10/2026",
-   "Envoyée",
-   "Accusé de réception automatique",
-   "29/10/2026",
-   "Attendre 2 semaines",
+   "En cours",
+   "Demande à l'étude ; sans nouvelles sous 4 semaines : non retenue",
+   "05/11/2026",
+   "Sans réponse au 03/12, considérer comme non retenu",
    "marne-et-gondoire"
   ],
   [
@@ -233,11 +233,11 @@
    "Technicien",
    "Mail",
    "stages@ville-creteil.fr",
-   "",
-   "À envoyer",
-   "",
-   "",
-   "Relire et envoyer le brouillon Gmail",
+   "02/11/2026",
+   "Envoyée",
+   "Accusé de réception automatique (sans nouvelles sous 15 jours : non retenu)",
+   "02/11/2026",
+   "Sans réponse au 17/11, considérer comme non retenu",
    "creteil"
   ],
   [
@@ -248,10 +248,10 @@
    "Formulaire",
    "Offre « STAGES Tous secteurs » réf. 2026-7802 sur gestion-candidatures.valdemarne.fr",
    "02/11/2026",
-   "Envoyée",
-   "Accusé de réception automatique",
-   "02/11/2026",
-   "Attendre 2 semaines",
+   "En cours",
+   "Demande transmise aux services ; sans réponse sous 2 mois : non retenue",
+   "04/11/2026",
+   "Attendre (réponse avant le 04/01/2027)",
    "val-de-marne"
   ],
   [
@@ -261,11 +261,11 @@
    "Technicien",
    "Mail",
    "stages@rosnysousbois.fr",
-   "",
-   "À envoyer",
-   "",
-   "",
-   "Relire et envoyer le brouillon Gmail",
+   "02/11/2026",
+   "Envoyée",
+   "Accusé de réception : le service recrutement mobilité examine le dossier",
+   "02/11/2026",
+   "Attendre 2 semaines",
    "rosny-sous-bois"
   ],
   [
@@ -276,10 +276,10 @@
    "Formulaire",
    "Formulaire Flatchr « Stagiaire / alternance école » (lien sur vincennes.fr)",
    "02/11/2026",
-   "Envoyée",
-   "Accusé de réception automatique",
-   "02/11/2026",
-   "Attendre 2 semaines",
+   "Refus",
+   "Pas de suite favorable",
+   "06/11/2026",
+   "Aucune",
    "vincennes"
   ],
   [
@@ -289,11 +289,11 @@
    "Data",
    "Mail",
    "sonia.larid@ars.sante.fr (copie orsnp@orsnp-idf.fr)",
-   "",
-   "À envoyer",
-   "",
-   "",
-   "Relire et envoyer le brouillon Gmail",
+   "02/11/2026",
+   "Refus",
+   "Cherche des M1 ou M2 pour 5 à 6 mois",
+   "04/11/2026",
+   "Aucune",
    "orsnp-idf"
   ]
  ]
