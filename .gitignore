@@ -1,0 +1,12 @@
+# Python (scripts de _outils)
+__pycache__/
+*.pyc
+
+# Fichiers temporaires de Word / Excel
+~$*
+
+# Éditeurs et système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
