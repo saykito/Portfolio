@@ -772,5 +772,204 @@
    "Mettre mes compétences au service d'une mission de santé publique me motive. Je serais heureux d'en parler avec vous lors d'un entretien."
   ],
   "date": "2 novembre 2026"
+ },
+ "rcb-informatique": {
+  "name": "RCB Informatique",
+  "ref": "RCB Informatique",
+  "chez": "chez RCB Informatique",
+  "att": "À l'attention de M. Rolland, RCB Informatique",
+  "poste": "Stage administrateur systèmes et réseaux",
+  "lieu": "Coignières et Versailles (78)",
+  "cv": "reseaux",
+  "lettre_pdf": "lettre-yasin-boukraa-rcb-informatique.pdf",
+  "objet": "Candidature pour un stage d'administrateur systèmes et réseaux (avril à août 2027)",
+  "match": [
+   [
+    "Infogérance et maintenance",
+    "Depuis plus de 30 ans, vous installez, maintenez et faites évoluer l'informatique des entreprises de votre secteur.",
+    "J'ai installé et configuré des postes sous Linux et Windows, dont un dual boot Debian / Windows documenté dans un rapport technique."
+   ],
+   [
+    "Réseau et télécoms",
+    "Vos clients comptent sur vous pour des réseaux qui tiennent et des services qui répondent.",
+    "J'ai monté un réseau avec routeur et serveur DHCP, et je diagnostique les pannes avec Wireshark, ping et traceroute."
+   ],
+   [
+    "Services Linux",
+    "L'administration systèmes, c'est aussi des serveurs à installer et à faire tourner.",
+    "J'ai configuré en TP des services Linux (SSH, Apache, DNS) sur des machines virtuelles VirtualBox et VMware."
+   ]
+  ],
+  "apprendre": "l'administration systèmes et réseaux en conditions réelles, chez de vrais clients, aux côtés de vos techniciens.",
+  "projets": [
+   "net",
+   "boot",
+   "bdd"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature pour un stage d'administrateur systèmes et réseaux, que vous proposez sur votre page Stages. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "RCB Informatique accompagne depuis plus de 30 ans les entreprises des Yvelines : infogérance, maintenance, intégration et télécoms. C'est ce travail concret chez les clients que je veux apprendre. En projet, j'ai monté un réseau avec routeur et serveur DHCP, installé un poste en dual boot Debian / Windows, et configuré en TP des services Linux (SSH, Apache, DNS) sur des machines virtuelles. Je diagnostique les pannes avec Wireshark, ping et traceroute.",
+   "Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à écouter un client, à expliquer simplement et à régler un problème sur place. Je suis titulaire du permis B et véhiculé. Coignières et Versailles sont donc facilement accessibles pour moi.",
+   "Je serais heureux de vous rencontrer, en boutique ou en visio, pour vous présenter mes projets."
+  ],
+  "date": "9 novembre 2026"
+ },
+ "jesto": {
+  "name": "Jesto",
+  "chez": "chez Jesto",
+  "poste": "Stage technicien systèmes et réseaux",
+  "lieu": "Paris 13e",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-jesto.pdf",
+  "objet": "Candidature spontanée pour un stage de technicien systèmes et réseaux (avril à août 2027)",
+  "match": [
+   [
+    "Postes et utilisateurs",
+    "Vous gérez des milliers de postes pour des PME et associations d'Île-de-France.",
+    "J'ai installé et configuré des postes sous Windows et Linux et géré des comptes utilisateurs."
+   ],
+   [
+    "Réseau et Wi-Fi",
+    "Vos clients ont besoin d'un réseau local et d'un Wi-Fi qui fonctionnent sans y penser.",
+    "J'ai monté un réseau avec routeur et serveur DHCP et je diagnostique les pannes avec Wireshark, ping et traceroute."
+   ],
+   [
+    "Relation client",
+    "L'infogérance, c'est aussi expliquer clairement à des utilisateurs qui ne sont pas informaticiens.",
+    "Depuis 2023, je gère des locations en saison : demandes des clients, problèmes à régler vite, calme et réactivité."
+   ]
+  ],
+  "apprendre": "le quotidien d'une équipe d'infogérance : interventions chez les clients, réseau et Wi-Fi d'entreprise, suivi des demandes.",
+  "projets": [
+   "net",
+   "boot",
+   "old"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage de technicien systèmes et réseaux au sein de Jesto. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Jesto assure l'infogérance de PME et d'associations d'Île-de-France, de la gestion des postes au réseau et au Wi-Fi d'entreprise. C'est ce métier de terrain, au service de structures qui n'ont pas leur propre service informatique, que je veux apprendre. En projet, j'ai monté un réseau avec routeur et serveur DHCP, installé un poste en dual boot Debian / Windows et configuré en TP des services Linux (SSH, Apache, DNS). Je diagnostique les pannes avec Wireshark, ping et traceroute.",
+   "Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à écouter un client, à expliquer simplement et à régler un problème sur place. Je suis titulaire du permis B et véhiculé.",
+   "Vos locaux du 13e arrondissement sont proches de chez moi. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "9 novembre 2026"
+ },
+ "aci-technology": {
+  "name": "ACI Technology",
+  "chez": "chez ACI Technology",
+  "poste": "Stage technicien informatique et réseaux",
+  "lieu": "Bois-Colombes (92) et Paris 18e",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-aci-technology.pdf",
+  "objet": "Candidature spontanée pour un stage de technicien informatique et réseaux (avril à août 2027)",
+  "match": [
+   [
+    "Maintenance et infogérance",
+    "Vous assurez la maintenance du parc informatique de TPE et PME parisiennes.",
+    "J'ai installé et configuré des postes sous Windows et Linux, partitionnement compris, et rédigé la documentation."
+   ],
+   [
+    "Réseaux et Wi-Fi",
+    "Vous déployez les réseaux et le Wi-Fi de vos clients.",
+    "J'ai monté un réseau avec routeur et serveur DHCP et travaillé l'adressage IP ; Wireshark, ping et traceroute pour diagnostiquer."
+   ],
+   [
+    "Téléphonie et services",
+    "La VoIP et les services réseau reposent sur une infrastructure bien configurée.",
+    "J'ai configuré en TP des services Linux (SSH, Apache, DNS) sur des machines virtuelles VirtualBox et VMware."
+   ]
+  ],
+  "apprendre": "les interventions chez les clients, la téléphonie VoIP et le déploiement de réseaux Wi-Fi d'entreprise avec vos techniciens.",
+  "projets": [
+   "net",
+   "boot",
+   "bdd"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage de technicien informatique et réseaux au sein d'ACI Technology. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "ACI Technology accompagne les TPE et PME parisiennes sur la maintenance, l'infogérance, les réseaux Wi-Fi et la téléphonie VoIP. C'est ce travail de proximité qui m'intéresse. En projet, j'ai monté un réseau avec routeur et serveur DHCP, installé un poste en dual boot Debian / Windows et configuré en TP des services Linux (SSH, Apache, DNS) sur des machines virtuelles. Je diagnostique les pannes avec Wireshark, ping et traceroute.",
+   "Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à écouter un client, à expliquer simplement et à régler un problème sur place. Je suis titulaire du permis B et véhiculé.",
+   "Je serais heureux de vous rencontrer, à Bois-Colombes ou à Paris, pour en parler lors d'un entretien."
+  ],
+  "date": "9 novembre 2026"
+ },
+ "dalibo": {
+  "name": "Dalibo",
+  "chez": "chez Dalibo",
+  "poste": "Stage bases de données PostgreSQL",
+  "lieu": "Paris 9e",
+  "cv": "data",
+  "lettre_pdf": "lettre-yasin-boukraa-dalibo.pdf",
+  "objet": "Candidature spontanée pour un stage autour de PostgreSQL (avril à août 2027)",
+  "match": [
+   [
+    "PostgreSQL",
+    "Votre métier entier, c'est PostgreSQL : support, audit, migrations, contribution au projet.",
+    "J'ai conçu une base PostgreSQL de 12 tables (SAE cimetière communal) et je l'interroge en SQL via PHP et PDO."
+   ],
+   [
+    "Migrations vers PostgreSQL",
+    "Vous accompagnez les entreprises qui passent à PostgreSQL.",
+    "Sur OLDating, une appli PHP MVC en équipe, nous avons migré la base de MySQL vers PostgreSQL."
+   ],
+   [
+    "Linux",
+    "PostgreSQL tourne avant tout sur des serveurs Linux.",
+    "J'utilise Debian au quotidien et j'ai configuré en TP des services Linux (SSH, Apache, DNS) sur des machines virtuelles."
+   ]
+  ],
+  "apprendre": "l'administration de PostgreSQL en production : performances, réplication, supervision, auprès de vos DBA.",
+  "projets": [
+   "bdd",
+   "old",
+   "boot"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage autour de PostgreSQL au sein de Dalibo. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Dalibo est la référence française de PostgreSQL : support, audit, migrations et contribution au projet. PostgreSQL est justement la base que j'ai le plus pratiquée. Pour la SAE de gestion d'un cimetière communal, j'ai modélisé (MCD / MLD) et créé une base de 12 tables, exploitée en PHP avec PDO. Sur OLDating, une application PHP MVC réalisée en équipe, nous avons migré la base de MySQL vers PostgreSQL. Je travaille sous Debian et j'ai configuré en TP des services Linux sur des machines virtuelles.",
+   "Je sais que l'administration de PostgreSQL en production demande bien plus que ce que j'ai vu en cours : c'est précisément ce que je viens apprendre auprès de vos équipes. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à écouter un client, à expliquer simplement et à régler un problème sur place. Je suis titulaire du permis B et véhiculé.",
+   "Je serais heureux de vous présenter mes projets lors d'un entretien."
+  ],
+  "date": "9 novembre 2026"
+ },
+ "louvre": {
+  "name": "Musée du Louvre",
+  "ref": "la DSIN du Louvre",
+  "chez": "à la DSIN du musée du Louvre",
+  "att": "À l'attention de la Direction des systèmes d'information et du numérique (DSIN), musée du Louvre",
+  "poste": "Stage données et applications",
+  "lieu": "Paris 1er",
+  "cv": "data",
+  "lettre_pdf": "lettre-yasin-boukraa-louvre.pdf",
+  "objet": "Candidature spontanée pour un stage à la DSIN, données et applications (avril à août 2027)",
+  "match": [
+   [
+    "Applications de gestion",
+    "La DSIN fait tourner les applications de billetterie, de gestion des publics et de finances.",
+    "J'ai développé en PHP / PDO une application web complète de gestion sur PostgreSQL, avec rôles utilisateurs."
+   ],
+   [
+    "Données et SQL",
+    "Vos tableaux de bord reposent sur des données bien modélisées et des requêtes fiables.",
+    "Modélisation MCD / MLD, base de 12 tables, requêtes SQL et statistiques : c'est le cœur de ma SAE base de données."
+   ],
+   [
+    "Python et développement",
+    "Les flux de données et les API demandent aussi du code.",
+    "J'ai programmé en Python (automates finis, jeu WALL IS YOU) et en Java / JavaFX."
+   ]
+  ],
+  "apprendre": "le décisionnel et les flux de données d'un grand établissement : tableaux de bord, ETL, pilotage.",
+  "projets": [
+   "bdd",
+   "old",
+   "graph"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage au sein de la Direction des systèmes d'information et du numérique du musée du Louvre, sur les données et les applications de gestion. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "La DSIN fait fonctionner les applications de billetterie, de gestion des publics et de finances du musée, et les tableaux de bord qui en sont tirés. Travailler sur ces données m'intéresse. Pour la SAE de gestion d'un cimetière communal, j'ai modélisé (MCD / MLD) une base PostgreSQL de 12 tables et développé l'application web en PHP avec PDO, rôles utilisateurs et statistiques. Sur OLDating, en équipe, nous avons migré une application PHP MVC de MySQL vers PostgreSQL. Je programme aussi en Python et en Java.",
+   "Je ne connais pas encore les outils décisionnels ni les flux ETL : c'est ce que je viens apprendre auprès de vos équipes. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à écouter un client, à expliquer simplement et à régler un problème sur place. Je suis titulaire du permis B et véhiculé.",
+   "Contribuer, même modestement, au fonctionnement du Louvre me motive beaucoup. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "9 novembre 2026"
  }
 }
