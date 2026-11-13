@@ -74,3 +74,27 @@ Note : le connecteur Gmail réécrit les liens en redirection Google. Le signale
 - Le classeur est en français : séparateur « ; » dans les formules (une virgule donne #ERROR!).
 - Nouvelle cible : écrire la ligne juste sous la dernière ligne remplie (la mise en forme, la liste et les couleurs couvrent jusqu'à la ligne 200 ; prolonger les bandes alternées si besoin).
 - Garder `_outils/suivi.json` à jour en parallèle (copie de secours dans le repo).
+
+## Relances (à chaque lot)
+- Candidature concernée : statut « Envoyée », mode Mail, envoyée il y a 14 jours ou plus, aucune réponse humaine dans Gmail (un accusé de réception automatique ne compte pas comme réponse), et pas encore relancée.
+- Ne jamais relancer : Refus, En cours, Entretien, En pause, À vérifier, les candidatures par formulaire, ni une entreprise qui annonce un délai de réponse pas encore écoulé (voir « Prochaine action »).
+- Brouillon Gmail en réponse au mail envoyé (replyToMessageId du message envoyé, trouvé dans le dossier Envoyés), jamais d'envoi. Texte court :
+
+  Madame, Monsieur,
+
+  Je me permets de revenir vers vous au sujet de ma candidature pour un stage de <poste>, envoyée le <date>. Je reste très intéressé par <entreprise> et disponible pour un entretien, à votre convenance.
+
+  Ma page de candidature : https://saykito.github.io/Portfolio/candidature/<slug>/
+
+  Bien cordialement,
+
+  Yasin Boukraa
+  07 69 08 68 12
+
+- Une seule relance par entreprise. Dans le Google Sheets, colonne « Prochaine action » : « Brouillon de relance prêt (JJ/MM) ». Le statut passe à « Relancée » seulement quand la relance apparaît dans les Envoyés (vérifié au lot suivant), avec la date dans « Prochaine action ».
+
+## Tableau de bord (à chaque lot, en dernier)
+- Ajouter le lancement dans `_outils/lancements.json` : date (AAAA-MM-JJ, heure de Paris), heure (« 7h56 »), declenchement (« Automatique » ou « Lancé à la demande »), statut (« Réussi » ou « Échec »), duree_min, entreprises, pages, brouillons, relances.
+- `_outils/suivi.json` doit être à jour (copie du Google Sheets).
+- Lancer `python3 _outils/tableau_de_bord.py` : écrit `_outils/tableau-de-bord/Tableau_de_bord_candidatures_Yasin_Boukraa.html` et `.pdf` (non publiés sur le site, pas de coordonnées de recruteurs).
+- Commiter avec le lot, puis envoyer le PDF et le HTML à Yasin avec SendUserFile.
