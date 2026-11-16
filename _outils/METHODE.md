@@ -11,14 +11,16 @@ Ce dossier commence par `_` : GitHub Pages ne le publie pas.
 
 ## Stage recherché
 - Phrase exacte : « Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027. » Ne jamais mentionner d'heures.
-- Réseau / systèmes / support en priorité, data en alternative. Paris et toute l'Île-de-France. Tous types de structures.
+- Réseau / systèmes / support en priorité, data en alternative. Paris et toute l'Île-de-France.
+- Priorité aux entreprises privées : ESN, infogérance, intégrateurs, opérateurs, hébergeurs, éditeurs, DSI de PME et ETI. Mairies, collectivités et organismes publics : 1 au maximum par lot, et seulement avec une offre de stage publiée récente.
 
 ## Sélection (5 cibles par lot)
-1. Offres publiées récentes ET candidatures spontanées.
-2. Vérifier la date : pas d'offre retirée, pas d'offre non datée introuvable sur le site, pas d'adresse mail tirée d'une annonce de plus d'un an sans confirmation récente.
-3. Exclure : stages de 6 mois minimum, niveau Bac+4/5 exigé, alternance.
-4. Exclure les écoles privées, organismes de formation et CFA qui publient de fausses offres pour recruter des élèves (OpenClassrooms, Studi, etc.).
-5. Pas de doublon avec le doc de suivi.
+1. Au moins 4 entreprises privées sur 5.
+2. Chaque cible doit prouver qu'elle cherche un stagiaire : de préférence une offre de stage publiée il y a moins de 30 jours (date visible sur l'offre ou sur le site carrières de l'employeur). À défaut, une page stages ou carrières active, ou des offres de stage de moins de 3 mois qui montrent qu'elle accueille des stagiaires. Pas de candidature spontanée à l'aveugle sans ce signal.
+3. Vérifier la date : pas d'offre retirée, pas d'offre non datée introuvable sur le site, pas d'adresse mail tirée d'une annonce de plus d'un an sans confirmation récente. Noter dans le bilan, pour chaque cible, le lien de l'offre (ou de la page stages) et sa date.
+4. Exclure : stages de 6 mois minimum, niveau Bac+4/5 exigé, alternance.
+5. Exclure les écoles privées, organismes de formation et CFA qui publient de fausses offres pour recruter des élèves (OpenClassrooms, Studi, etc.).
+6. Pas de doublon avec le doc de suivi.
 
 ## Pour chaque cible
 1. Ajouter une entrée dans `_outils/candidatures.json` (même structure que les existantes) :
