@@ -1,5 +1,5 @@
 {
- "maj": "09/11/2026",
+ "maj": "16/11/2026",
  "drive_file_id": "1YmmzHb8lhMU_8OPkgO3EAZd-bAupLOtnasm44iQfXh8",
  "lignes": [
   [
@@ -13,7 +13,7 @@
    "Envoyée",
    "Aucune réponse",
    "",
-   "Relance en retard (prévue semaine du 2/11)",
+   "Brouillon de relance prêt (16/11)",
    "network-systems"
   ],
   [
@@ -41,7 +41,7 @@
    "Envoyée",
    "Aucune réponse",
    "",
-   "Relance en retard (prévue semaine du 2/11)",
+   "Brouillon de relance prêt (16/11)",
    "systup"
   ],
   [
@@ -69,7 +69,7 @@
    "Envoyée",
    "Accusé de réception automatique",
    "14/10/2026",
-   "Relance en retard (prévue semaine du 2/11)",
+   "Brouillon de relance prêt (16/11)",
    "mission-locale-paris"
   ],
   [
@@ -97,7 +97,7 @@
    "Envoyée",
    "Aucune réponse",
    "",
-   "Relancer mi-novembre",
+   "Brouillon de relance prêt (16/11)",
    "champigny-sur-marne"
   ],
   [
@@ -139,7 +139,7 @@
    "Envoyée",
    "Aucune réponse",
    "",
-   "Relancer mi-novembre",
+   "Brouillon de relance prêt (16/11)",
    "autorite-transports"
   ],
   [
@@ -223,7 +223,7 @@
    "Envoyée",
    "Aucune réponse",
    "",
-   "Attendre 2 semaines",
+   "Brouillon de relance prêt (16/11)",
    "bruitparif"
   ],
   [
@@ -265,7 +265,7 @@
    "Envoyée",
    "Accusé de réception : le service recrutement mobilité examine le dossier",
    "02/11/2026",
-   "Attendre 2 semaines",
+   "Brouillon de relance prêt (16/11)",
    "rosny-sous-bois"
   ],
   [
@@ -303,11 +303,11 @@
    "Réseaux",
    "Mail",
    "y.rolland@rcb-informatique.fr",
+   "09/11/2026",
+   "Envoyée",
+   "Aucune réponse",
    "",
-   "À envoyer",
-   "",
-   "",
-   "Brouillon Gmail prêt (lot du 09/11) ; pousser la page sur GitHub avant d'envoyer",
+   "Relancer à partir du 23/11",
    "rcb-informatique",
    "01 30 49 31 10 (page Stages)"
   ],
@@ -318,11 +318,11 @@
    "Technicien",
    "Mail",
    "contact@jesto.fr (adresse générale)",
+   "09/11/2026",
+   "Envoyée",
+   "Aucune réponse",
    "",
-   "À envoyer",
-   "",
-   "",
-   "Brouillon Gmail prêt (lot du 09/11) ; pousser la page sur GitHub avant d'envoyer",
+   "Relancer à partir du 23/11",
    "jesto",
    "01 88 32 11 32 (standard)"
   ],
@@ -333,11 +333,11 @@
    "Technicien",
    "Mail",
    "contact@acitechnology.fr (adresse générale)",
+   "09/11/2026",
+   "Envoyée",
+   "Aucune réponse",
    "",
-   "À envoyer",
-   "",
-   "",
-   "Brouillon Gmail prêt (lot du 09/11) ; pousser la page sur GitHub avant d'envoyer",
+   "Relancer à partir du 23/11",
    "aci-technology",
    "01 84 16 09 73 (standard)"
   ],
@@ -348,11 +348,11 @@
    "Data",
    "Mail",
    "recrutement@dalibo.com",
-   "",
-   "À envoyer",
-   "",
-   "",
-   "Brouillon Gmail prêt (lot du 09/11) ; pousser la page sur GitHub avant d'envoyer",
+   "09/11/2026",
+   "Refus",
+   "Pas de stage ni d'alternance (entreprise en télétravail)",
+   "09/11/2026",
+   "Aucune",
    "dalibo",
    "01 83 64 61 88 (standard)"
   ],
@@ -363,12 +363,87 @@
    "Data",
    "Mail",
    "candidatures@louvre.fr",
+   "09/11/2026",
+   "Envoyée",
+   "Accusé de réception automatique",
+   "09/11/2026",
+   "Sans réponse au 21/12, considérer comme non retenu",
+   "louvre",
+   ""
+  ],
+  [
+   "Parthena Consultant",
+   "Boulogne-Billancourt (92)",
+   "Intégrateur IT (DSI interne)",
+   "Technicien",
+   "Formulaire",
+   "Offre « Stagiaire Administrateur Systèmes et Réseaux » sur parthena.com, formulaire Quarksup",
    "",
    "À envoyer",
    "",
    "",
-   "Brouillon Gmail prêt (lot du 09/11) ; pousser la page sur GitHub avant d'envoyer ; sans réponse sous 6 semaines : non retenu",
-   "louvre",
+   "Postuler via le formulaire Quarksup (offre publiée)",
+   "parthena",
+   "01 40 95 30 41 (siège)"
+  ],
+  [
+   "Kincy",
+   "Paris 9e",
+   "Infogérance",
+   "Technicien",
+   "Mail",
+   "contact@kincy.com (adresse générale)",
+   "",
+   "À envoyer",
+   "",
+   "",
+   "Brouillon Gmail prêt (lot du 16/11), CV technicien joint",
+   "kincy",
+   "09 71 09 00 00 (accueil)"
+  ],
+  [
+   "Cyllene",
+   "Paris 15e / Nanterre (92)",
+   "ESN / hébergeur",
+   "Réseaux",
+   "Mail",
+   "contact@groupe-cyllene.com (adresse générale)",
+   "",
+   "À envoyer",
+   "",
+   "",
+   "Brouillon Gmail prêt (lot du 16/11), CV technicien joint ; formulaire spontané possible sur groupe-cyllene.com",
+   "cyllene",
+   "01 41 19 40 40 (standard)"
+  ],
+  [
+   "NetworkIT",
+   "Paris 14e",
+   "Infogérance",
+   "Technicien",
+   "Mail",
+   "contact@networkit.fr (adresse générale)",
+   "",
+   "À envoyer",
+   "",
+   "",
+   "Brouillon Gmail prêt (lot du 16/11), CV technicien joint",
+   "networkit",
+   "07 55 63 99 29 (numéro du site, titulaire non précisé)"
+  ],
+  [
+   "Ville du Kremlin-Bicêtre",
+   "Le Kremlin-Bicêtre (94)",
+   "Collectivité",
+   "Technicien",
+   "Mail",
+   "offre_emploi@ville-kremlin-bicetre.fr",
+   "",
+   "À envoyer",
+   "",
+   "",
+   "Brouillon Gmail prêt (lot du 16/11), CV joint ; joindre la lettre PDF",
+   "kremlin-bicetre",
    ""
   ]
  ]

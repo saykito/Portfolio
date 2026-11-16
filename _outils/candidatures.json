@@ -971,5 +971,206 @@
    "Contribuer, même modestement, au fonctionnement du Louvre me motive beaucoup. Je serais heureux d'en parler avec vous lors d'un entretien."
   ],
   "date": "9 novembre 2026"
+ },
+ "parthena": {
+  "name": "Parthena Consultant",
+  "ref": "Parthena",
+  "chez": "à la DSI de Parthena Consultant",
+  "poste": "Stagiaire administrateur systèmes et réseaux",
+  "lieu": "Boulogne-Billancourt (92)",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-parthena.pdf",
+  "objet": "Candidature : stage administrateur systèmes et réseaux (avril à août 2027)",
+  "match": [
+   [
+    "Réseau et DHCP",
+    "Votre offre parle de réseaux, de Wi-Fi, de téléphonie IP et d'imprimantes.",
+    "En TP, j'ai monté une infrastructure réseau avec adressage IP et DHCP, et diagnostiqué les pannes avec Wireshark, ping et traceroute."
+   ],
+   [
+    "Linux et virtualisation",
+    "Le poste demande de l'aide sur l'infrastructure et la supervision.",
+    "J'ai configuré des services Linux (SSH, Apache, DNS) sur des machines virtuelles VirtualBox et VMware, et installé un dual boot Debian / Windows."
+   ],
+   [
+    "Relation client",
+    "Le support aux utilisateurs sur site est au cœur de la mission.",
+    "Responsable de gestion locative (2023 - 2025) : accueil, explications, résolution de problèmes sur place."
+   ]
+  ],
+  "apprendre": "la supervision, la téléphonie IP et le quotidien d'une DSI qui soutient des consultants.",
+  "projets": [
+   "net",
+   "boot",
+   "bdd"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature pour votre offre de stage d'administrateur systèmes et réseaux au sein de la DSI de Parthena Consultant. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Votre offre associe support aux utilisateurs sur site, réseaux, Wi-Fi, téléphonie IP et supervision. En TP, j'ai monté une infrastructure réseau avec adressage IP et DHCP, configuré des services Linux (SSH, Apache, DNS) sur des machines virtuelles VirtualBox et VMware, et diagnostiqué des pannes avec Wireshark, ping et traceroute. J'ai aussi installé un dual boot Debian / Windows.",
+   "Je ne connais pas encore la téléphonie IP ni les outils de supervision en entreprise : c'est ce que je viens apprendre auprès de vous. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à écouter un client, à expliquer simplement et à régler un problème sur place. Je suis titulaire du permis B et véhiculé.",
+   "Rejoindre une équipe qui accompagne des PME et ETI me motive beaucoup. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "16 novembre 2026"
+ },
+ "kincy": {
+  "name": "Kincy",
+  "ref": "Kincy",
+  "chez": "chez Kincy",
+  "poste": "Stage technicien systèmes et réseaux",
+  "lieu": "Paris 9e",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-kincy.pdf",
+  "objet": "Candidature spontanée : stage technicien systèmes et réseaux (avril à août 2027)",
+  "match": [
+   [
+    "Réseau et DHCP",
+    "Vos équipes interviennent sur le réseau et l'infrastructure de vos clients.",
+    "En TP, j'ai monté une infrastructure réseau avec adressage IP et DHCP, et diagnostiqué les pannes avec Wireshark, ping et traceroute."
+   ],
+   [
+    "Linux et virtualisation",
+    "L'infogérance demande de savoir administrer des serveurs.",
+    "J'ai configuré des services Linux (SSH, Apache, DNS) sur des machines virtuelles VirtualBox et VMware, et installé un dual boot Debian / Windows."
+   ],
+   [
+    "Relation client",
+    "Le support utilisateurs pour des PME, ETI et start-ups demande pédagogie et réactivité.",
+    "Responsable de gestion locative (2023 - 2025) : accueil, explications, résolution de problèmes sur place."
+   ]
+  ],
+  "apprendre": "l'infogérance au quotidien : tickets, interventions chez les clients, outils de supervision.",
+  "projets": [
+   "net",
+   "boot",
+   "bdd"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage de technicien systèmes et réseaux chez Kincy. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Votre activité d'infogérance, de maintenance et de support pour des PME, ETI et start-ups, avec des interventions sur l'infrastructure, le réseau et la téléphonie, correspond à ce que je veux pratiquer. En TP, j'ai monté une infrastructure réseau avec DHCP, configuré des services Linux (SSH, Apache, DNS) sur des machines virtuelles et diagnostiqué des pannes avec Wireshark, ping et traceroute.",
+   "Je ne connais pas encore le travail en infogérance avec des clients multiples : c'est ce que je viens apprendre auprès de vos techniciens. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à écouter un client, à expliquer simplement et à régler un problème sur place. Je suis titulaire du permis B et véhiculé.",
+   "Je serais heureux de vous présenter ma motivation lors d'un entretien."
+  ],
+  "date": "16 novembre 2026"
+ },
+ "cyllene": {
+  "name": "Cyllene",
+  "ref": "Cyllene",
+  "chez": "au sein du groupe Cyllene",
+  "poste": "Stage technicien systèmes et réseaux",
+  "lieu": "Paris 15e / Nanterre (92)",
+  "cv": "reseaux",
+  "lettre_pdf": "lettre-yasin-boukraa-cyllene.pdf",
+  "objet": "Candidature spontanée : stage technicien systèmes et réseaux (avril à août 2027)",
+  "match": [
+   [
+    "Réseau et DHCP",
+    "Vos activités d'hébergement et de cloud reposent sur des réseaux solides.",
+    "En TP, j'ai monté une infrastructure réseau avec adressage IP et DHCP, et diagnostiqué les pannes avec Wireshark, ping et traceroute."
+   ],
+   [
+    "Linux et virtualisation",
+    "Vos plateformes hébergent des serveurs et des machines virtuelles.",
+    "J'ai configuré des services Linux (SSH, Apache, DNS) sur des machines virtuelles VirtualBox et VMware, et installé un dual boot Debian / Windows."
+   ],
+   [
+    "Relation client",
+    "Vos équipes accompagnent des clients dans leur transformation numérique.",
+    "Responsable de gestion locative (2023 - 2025) : accueil, explications, résolution de problèmes sur place."
+   ]
+  ],
+  "apprendre": "l'exploitation d'une infrastructure d'hébergement et de cloud à grande échelle.",
+  "projets": [
+   "net",
+   "boot",
+   "bdd"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage de technicien systèmes et réseaux au sein du groupe Cyllene, à Paris ou à Nanterre. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Vos activités d'hébergement, de cloud et d'infrastructure correspondent au domaine dans lequel je veux me spécialiser. En TP, j'ai monté une infrastructure réseau avec DHCP, configuré des services Linux (SSH, Apache, DNS) sur des machines virtuelles VirtualBox et VMware et analysé du trafic avec Wireshark. Je travaille aussi avec PostgreSQL, sur une application PHP de 12 tables.",
+   "Je ne connais pas encore l'exploitation d'un hébergeur : c'est ce que je viens apprendre auprès de vos équipes. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à écouter un client, à expliquer simplement et à régler un problème sur place. Je suis titulaire du permis B et véhiculé.",
+   "Je serais heureux de vous présenter ma motivation lors d'un entretien."
+  ],
+  "date": "16 novembre 2026"
+ },
+ "networkit": {
+  "name": "NetworkIT",
+  "ref": "NetworkIT",
+  "chez": "chez NetworkIT",
+  "poste": "Stage technicien support et réseaux",
+  "lieu": "Paris 14e",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-networkit.pdf",
+  "objet": "Candidature spontanée : stage technicien support et réseaux (avril à août 2027)",
+  "match": [
+   [
+    "Réseau et DHCP",
+    "Vous gérez le réseau et l'infrastructure de TPE et PME.",
+    "En TP, j'ai monté une infrastructure réseau avec adressage IP et DHCP, et diagnostiqué les pannes avec Wireshark, ping et traceroute."
+   ],
+   [
+    "Linux et virtualisation",
+    "Le support demande de savoir intervenir sur des postes et des serveurs.",
+    "J'ai configuré des services Linux (SSH, Apache, DNS) sur des machines virtuelles VirtualBox et VMware, et installé un dual boot Debian / Windows."
+   ],
+   [
+    "Relation client",
+    "Vos clients attendent des réponses claires et rapides.",
+    "Responsable de gestion locative (2023 - 2025) : accueil, explications, résolution de problèmes sur place."
+   ]
+  ],
+  "apprendre": "le support informatique de TPE et PME et l'usage de l'IA pour le support.",
+  "projets": [
+   "net",
+   "boot",
+   "graph"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage de technicien support et réseaux chez NetworkIT. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Votre activité d'infogérance et de support pour les TPE et PME, et votre travail sur le support IT assisté par l'IA, m'intéressent beaucoup. En TP, j'ai monté une infrastructure réseau avec DHCP, configuré des services Linux (SSH, Apache, DNS) sur des machines virtuelles et diagnostiqué des pannes avec Wireshark, ping et traceroute. Je programme aussi en Python et en PHP.",
+   "Je ne connais pas encore le support en entreprise au quotidien : c'est ce que je viens apprendre auprès de vous. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à écouter un client, à expliquer simplement et à régler un problème sur place. Je suis titulaire du permis B et véhiculé.",
+   "Je serais heureux de vous présenter ma motivation lors d'un entretien."
+  ],
+  "date": "16 novembre 2026"
+ },
+ "kremlin-bicetre": {
+  "name": "Ville du Kremlin-Bicêtre",
+  "ref": "la Ville du Kremlin-Bicêtre",
+  "chez": "au sein des services de la Ville du Kremlin-Bicêtre",
+  "att": "À l'attention de Monsieur le Maire, Direction des ressources humaines, Ville du Kremlin-Bicêtre",
+  "poste": "Stage technicien support informatique",
+  "lieu": "Le Kremlin-Bicêtre (94)",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-kremlin-bicetre.pdf",
+  "objet": "Candidature spontanée : stage technicien support informatique (avril à août 2027)",
+  "match": [
+   [
+    "Réseau et DHCP",
+    "Les services municipaux reposent sur un réseau fiable.",
+    "En TP, j'ai monté une infrastructure réseau avec adressage IP et DHCP, et diagnostiqué les pannes avec Wireshark, ping et traceroute."
+   ],
+   [
+    "Linux et virtualisation",
+    "Le parc informatique des agents doit être installé et maintenu.",
+    "J'ai configuré des services Linux (SSH, Apache, DNS) sur des machines virtuelles VirtualBox et VMware, et installé un dual boot Debian / Windows."
+   ],
+   [
+    "Relation client",
+    "Les agents et le public ont besoin d'un support patient et clair.",
+    "Responsable de gestion locative (2023 - 2025) : accueil, explications, résolution de problèmes sur place."
+   ]
+  ],
+  "apprendre": "le fonctionnement informatique d'une collectivité et le support aux agents.",
+  "projets": [
+   "net",
+   "bdd",
+   "boot"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature spontanée pour un stage de technicien support informatique au sein des services de la Ville du Kremlin-Bicêtre. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Je souhaite contribuer au bon fonctionnement du parc informatique et du réseau qui servent les agents et le public. En TP, j'ai monté une infrastructure réseau avec DHCP, configuré des services Linux (SSH, Apache, DNS) et diagnostiqué des pannes avec Wireshark, ping et traceroute. J'ai aussi développé une application PHP et PostgreSQL de gestion d'un cimetière communal, qui m'a fait découvrir les besoins d'une collectivité.",
+   "Je ne connais pas encore l'organisation informatique d'une mairie : c'est ce que je viens apprendre auprès de vos services. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à écouter un client, à expliquer simplement et à régler un problème sur place. Je suis titulaire du permis B et véhiculé.",
+   "Contribuer au service public local me motive beaucoup. Je serais heureux de vous présenter ma motivation lors d'un entretien."
+  ],
+  "date": "16 novembre 2026"
  }
 }
