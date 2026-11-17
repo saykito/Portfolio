@@ -12,10 +12,11 @@ Ce dossier commence par `_` : GitHub Pages ne le publie pas.
 ## Stage recherché
 - Phrase exacte : « Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027. » Ne jamais mentionner d'heures.
 - Réseau / systèmes / support en priorité, data en alternative. Paris et toute l'Île-de-France.
-- Priorité aux entreprises privées : ESN, infogérance, intégrateurs, opérateurs, hébergeurs, éditeurs, DSI de PME et ETI. Mairies, collectivités et organismes publics : 1 au maximum par lot, et seulement avec une offre de stage publiée récente.
+- Cibles : grandes entreprises et entreprises privées. Grands groupes à surveiller en priorité sur leur site carrières : Orange, SFR, Bouygues Telecom, Free (Iliad), SNCF, RATP, Société Générale, BNP Paribas, Crédit Agricole, AXA, Renault, Stellantis, Thales, Airbus, Safran, EDF, Engie, TotalEnergies, Air France, La Poste, Capgemini, Sopra Steria, SPIE ICS, Axians, Econocom, Computacenter, SCC, Inetum, VINCI Energies (liste non limitative). Aussi les PME privées : ESN, infogérance, intégrateurs, opérateurs, hébergeurs, éditeurs, DSI de PME et ETI.
+- Pas de mairies, collectivités, administrations ni établissements publics administratifs (SNCF et RATP comptent comme grandes entreprises et sont acceptées).
 
 ## Sélection (5 cibles par lot)
-1. Au moins 4 entreprises privées sur 5.
+1. Grandes entreprises et entreprises privées uniquement. Viser au moins 2 grands groupes par lot quand une offre compatible existe.
 2. Chaque cible doit prouver qu'elle cherche un stagiaire : de préférence une offre de stage publiée il y a moins de 30 jours (date visible sur l'offre ou sur le site carrières de l'employeur). À défaut, une page stages ou carrières active, ou des offres de stage de moins de 3 mois qui montrent qu'elle accueille des stagiaires. Pas de candidature spontanée à l'aveugle sans ce signal.
 3. Vérifier la date : pas d'offre retirée, pas d'offre non datée introuvable sur le site, pas d'adresse mail tirée d'une annonce de plus d'un an sans confirmation récente. Noter dans le bilan, pour chaque cible, le lien de l'offre (ou de la page stages) et sa date.
 4. Exclure : stages de 6 mois minimum, niveau Bac+4/5 exigé, alternance.
@@ -31,7 +32,7 @@ Ce dossier commence par `_` : GitHub Pages ne le publie pas.
    Choix du CV : technicien = support/systèmes et réseaux généraliste ; reseaux = orienté réseau/infra ; data = données/BDD.
 2. Lancer `python3 _outils/build.py <slug>` : génère `candidature/<slug>/index.html` et la lettre PDF (vérifier « lettre sur 1 page »).
 3. Commit + push sur `main`. Page en ligne : `https://saykito.github.io/Portfolio/candidature/<slug>/` (vérifier qu'elle répond).
-4. Si l'entreprise a une adresse mail : brouillon Gmail sur le modèle ci-dessous. Si c'est un formulaire : préparer le message à coller et la liste des fichiers, et envoyer directement à Yasin dans la conversation (SendUserFile) les PDF à téléverser : le CV choisi (`cv-yasin-boukraa-<cv>.pdf` à la racine) et la lettre (`candidature/<slug>/<lettre_pdf>`).
+4. Si l'entreprise a une adresse mail : brouillon Gmail sur le modèle ci-dessous. Si c'est un formulaire ou le portail carrières d'un grand groupe (cas le plus fréquent chez Orange, SNCF, Renault, Thales, etc.) : noter « Portail » dans la colonne Mode du suivi avec le lien direct de l'offre, préparer le message à coller et la liste des fichiers, et envoyer directement à Yasin dans la conversation (SendUserFile) les PDF à téléverser : le CV choisi (`cv-yasin-boukraa-<cv>.pdf` à la racine) et la lettre (`candidature/<slug>/<lettre_pdf>`).
 5. Mettre à jour le doc de suivi (ligne du tableau + section avec mail et lettre).
 6. Ne jamais envoyer : Yasin relit et envoie lui-même.
 
