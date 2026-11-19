@@ -1172,5 +1172,165 @@
    "Contribuer au service public local me motive beaucoup. Je serais heureux de vous présenter ma motivation lors d'un entretien."
   ],
   "date": "16 novembre 2026"
+ },
+ "safran-chatou": {
+  "name": "Safran Electrical & Power",
+  "ref": "Safran",
+  "chez": "chez Safran Electrical & Power à Chatou",
+  "poste": "Stagiaire support réseau et proximité",
+  "lieu": "Chatou (78)",
+  "cv": "reseaux",
+  "lettre_pdf": "lettre-yasin-boukraa-safran-chatou.pdf",
+  "objet": "Candidature : stage support réseau et proximité, réf. 2026-192666 (avril à août 2027)",
+  "match": [
+   [
+    "Réseau et Ethernet",
+    "Votre offre prévoit la mise à niveau de locaux techniques : déplacement de switchs et passage des PC fixes en Ethernet.",
+    "En TP, j'ai monté une infrastructure réseau avec adressage IP et DHCP, câblé et configuré les équipements, et diagnostiqué les pannes avec Wireshark, ping et traceroute."
+   ],
+   [
+    "Postes et systèmes",
+    "Le stage comprend la mise à jour des PC du site.",
+    "J'ai installé un dual boot Debian / Windows et configuré des services Linux (SSH, Apache, DNS) sur des machines virtuelles VirtualBox et VMware."
+   ],
+   [
+    "Documentation",
+    "Vous attendez la mise à jour de la documentation et des procédures, et la reprise des connaissances d'un collègue.",
+    "Chaque SAE se termine par un rapport technique ; responsable de gestion locative (2023 - 2025), j'ai l'habitude d'expliquer et de transmettre clairement."
+   ]
+  ],
+  "apprendre": "l'infrastructure réseau d'un site industriel et le support de proximité dans un grand groupe.",
+  "projets": [
+   "net",
+   "boot",
+   "bdd"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature pour votre offre de stage de support réseau et proximité (réf. 2026-192666) chez Safran Electrical & Power à Chatou. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027, et la durée de 4 mois de votre offre me convient.",
+   "Votre offre associe la mise à jour des postes, la mise à niveau des locaux techniques (switchs, passage en Ethernet) et la documentation. En TP, j'ai monté une infrastructure réseau avec adressage IP et DHCP, configuré des services Linux (SSH, Apache, DNS) sur des machines virtuelles VirtualBox et VMware et diagnostiqué des pannes avec Wireshark, ping et traceroute. J'ai aussi installé un dual boot Debian / Windows.",
+   "Je ne connais pas encore le travail sur l'infrastructure d'un site industriel : c'est ce que je viens apprendre auprès de vous. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à écouter un client, à expliquer simplement et à régler un problème sur place. Je suis titulaire du permis B et véhiculé.",
+   "Contribuer au bon fonctionnement du réseau d'un acteur majeur de l'aéronautique me motive beaucoup. Les déplacements sur le site de Méru ne me posent aucun problème. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "19 novembre 2026"
+ },
+ "spie-ics": {
+  "name": "SPIE ICS",
+  "ref": "SPIE ICS",
+  "chez": "chez SPIE ICS",
+  "poste": "Stage technicien d'assistance utilisateurs",
+  "lieu": "Île-de-France",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-spie-ics.pdf",
+  "objet": "Candidature : stage technicien d'assistance utilisateurs, réf. 2024-33943 (avril à août 2027)",
+  "match": [
+   [
+    "Diagnostic",
+    "Votre offre demande de diagnostiquer des pannes logicielles, matérielles, réseau et périphériques.",
+    "En TP, j'ai monté une infrastructure réseau avec adressage IP et DHCP, et diagnostiqué les pannes avec Wireshark, ping, traceroute et ipconfig."
+   ],
+   [
+    "Windows et Linux",
+    "Le support porte sur des postes Windows et Linux et sur TCP/IP.",
+    "J'ai installé un dual boot Debian / Windows et configuré des services Linux (SSH, Apache, DNS) sur des machines virtuelles VirtualBox et VMware."
+   ],
+   [
+    "Relation utilisateur",
+    "Le support par téléphone, email et ticket demande clarté et sens du service.",
+    "Responsable de gestion locative (2023 - 2025) : accueil, explications, résolution de problèmes sur place."
+   ]
+  ],
+  "apprendre": "le support utilisateurs en entreprise de services numériques, la gestion des tickets et la rédaction de procédures.",
+  "projets": [
+   "net",
+   "boot",
+   "old"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature pour votre offre de stage de technicien d'assistance utilisateurs (réf. 2024-33943) chez SPIE ICS en Île-de-France. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027.",
+   "Votre offre associe support par téléphone, email et ticket, diagnostic des pannes logicielles, matérielles et réseau, et rédaction de procédures. En TP, j'ai monté une infrastructure réseau avec adressage IP et DHCP, configuré des services Linux (SSH, Apache, DNS) sur des machines virtuelles et diagnostiqué des pannes avec Wireshark, ping et traceroute. J'ai aussi installé un dual boot Debian / Windows.",
+   "Je ne connais pas encore le support utilisateurs en entreprise au quotidien : c'est ce que je viens apprendre auprès de vous. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à écouter un client, à expliquer simplement et à régler un problème sur place. Je suis titulaire du permis B et véhiculé.",
+   "Rejoindre les équipes de services numériques de SPIE ICS, au service de clients variés, me motive beaucoup. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "19 novembre 2026"
+ },
+ "renault": {
+  "name": "Renault Group",
+  "ref": "Renault Group",
+  "chez": "chez Renault Group au Technocentre",
+  "poste": "Stage technicien informatique",
+  "lieu": "Guyancourt (78)",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-renault.pdf",
+  "objet": "Candidature : CS27 Bac+2/3 stage technicien informatique (avril à août 2027)",
+  "match": [
+   [
+    "Scripts et outils",
+    "Votre offre prévoit de développer et d'améliorer des outils et scripts de gestion du parc informatique.",
+    "Je programme en Python, PHP, Java et C : automates finis en Python, applications web PHP et PostgreSQL, jeu en Java / JavaFX."
+   ],
+   [
+    "Postes et réseau",
+    "Le stage touche au parc informatique, à la visioconférence et aux salles de réunion.",
+    "En TP, j'ai monté un réseau avec DHCP, diagnostiqué des pannes avec Wireshark, ping et traceroute, et installé un dual boot Debian / Windows."
+   ],
+   [
+    "Besoins des utilisateurs",
+    "Vous attendez une analyse des besoins des utilisateurs et des équipes support.",
+    "Responsable de gestion locative (2023 - 2025) : écoute du client, explications claires, résolution de problèmes sur place."
+   ]
+  ],
+  "apprendre": "la gestion d'un grand parc informatique et l'outillage des équipes support.",
+  "projets": [
+   "graph",
+   "bdd",
+   "net"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature pour votre offre de stage de technicien informatique (CS27 Bac+2/3) au Technocentre de Guyancourt. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027, et la durée de 2 à 3 mois de votre offre me convient.",
+   "Votre offre associe la modernisation des outils de gestion du parc informatique, de la visioconférence et des salles de réunion, et le développement de scripts. Je programme en Python, PHP, Java et C : j'ai codé des algorithmes sur les automates finis en Python et une application web PHP sur une base PostgreSQL de 12 tables. En TP, j'ai aussi monté un réseau avec DHCP et diagnostiqué des pannes avec Wireshark, ping et traceroute.",
+   "Je ne connais pas encore les outils de gestion de parc d'un grand groupe : c'est ce que je viens apprendre auprès de vous. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à écouter un client, à expliquer simplement et à régler un problème sur place. Je suis titulaire du permis B et véhiculé.",
+   "Contribuer aux outils des équipes support d'un constructeur comme Renault Group me motive beaucoup. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "19 novembre 2026"
+ },
+ "groupe-poisson": {
+  "name": "Groupe Poisson",
+  "ref": "Groupe Poisson",
+  "chez": "à la DSI du Groupe Poisson",
+  "poste": "Stage informatique support et systèmes",
+  "lieu": "Tournan-en-Brie (77)",
+  "cv": "technicien",
+  "lettre_pdf": "lettre-yasin-boukraa-groupe-poisson.pdf",
+  "objet": "Candidature : stage informatique support et systèmes (avril à août 2027)",
+  "match": [
+   [
+    "Support et parc",
+    "Votre offre parle de tickets, de déploiement de postes et de gestion du stock informatique.",
+    "J'ai installé un dual boot Debian / Windows et configuré des machines virtuelles VirtualBox et VMware."
+   ],
+   [
+    "Diagnostic réseau",
+    "Le poste demande d'analyser des problèmes de connexion sur plusieurs sites.",
+    "En TP, j'ai monté une infrastructure réseau avec adressage IP et DHCP, et diagnostiqué les pannes avec Wireshark, ping, traceroute et ipconfig."
+   ],
+   [
+    "Proximité",
+    "Les interventions se font à Tournan-en-Brie et sur d'autres sites du groupe.",
+    "J'habite en Île-de-France, je suis véhiculé, et j'ai géré des locations sur place (2023 - 2025) : écoute, explications, résolution de problèmes."
+   ]
+  ],
+  "apprendre": "le support des équipes d'un groupe multisite et le scripting au service d'une DSI.",
+  "projets": [
+   "net",
+   "boot",
+   "bdd"
+  ],
+  "paras": [
+   "Étudiant en 2e année de BUT Informatique à l'IUT de Marne-la-Vallée, je vous adresse ma candidature pour votre offre de stage en informatique support et systèmes à la DSI du Groupe Poisson. Je recherche un stage de 2 mois minimum, débutant en avril 2027 jusqu'à fin août 2027, et je peux m'engager sur 3 à 4 mois.",
+   "Votre offre associe le traitement des tickets, le déploiement de postes, la gestion du parc et l'analyse des problèmes de connexion. En TP, j'ai monté une infrastructure réseau avec adressage IP et DHCP, configuré des services Linux (SSH, Apache, DNS) sur des machines virtuelles et diagnostiqué des pannes avec Wireshark, ping et traceroute. Je programme aussi en Python et en PHP, avec PostgreSQL.",
+   "Je ne connais pas encore le support d'un groupe multisite au quotidien : c'est ce que je viens apprendre auprès de vous. Depuis 2023, je gère des locations de villas en saison, ce qui m'a appris à écouter un client, à expliquer simplement et à régler un problème sur place. Je suis titulaire du permis B et véhiculé.",
+   "Étudier à Marne-la-Vallée, à quelques kilomètres de Tournan-en-Brie, et rejoindre un groupe industriel seine-et-marnais me motive beaucoup. Je serais heureux d'en parler avec vous lors d'un entretien."
+  ],
+  "date": "19 novembre 2026"
  }
 }
