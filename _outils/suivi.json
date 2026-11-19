@@ -1,5 +1,5 @@
 {
- "maj": "16/11/2026",
+ "maj": "19/11/2026",
  "drive_file_id": "1YmmzHb8lhMU_8OPkgO3EAZd-bAupLOtnasm44iQfXh8",
  "lignes": [
   [
@@ -10,11 +10,12 @@
    "Mail",
    "contact@network-systems.fr",
    "14/10/2026",
-   "Envoyée",
+   "Relancée",
    "Aucune réponse",
    "",
-   "Brouillon de relance prêt (16/11)",
-   "network-systems"
+   "Relancée le 16/11, attendre 2 semaines",
+   "network-systems",
+   ""
   ],
   [
    "Mairie d'Osny",
@@ -28,6 +29,7 @@
    "",
    "",
    "Le stage n'apparaît plus dans les offres : ne pas envoyer pour l'instant",
+   "",
    ""
   ],
   [
@@ -38,11 +40,12 @@
    "Mail",
    "emploi@aldisa.fr",
    "14/10/2026",
-   "Envoyée",
+   "Relancée",
    "Aucune réponse",
    "",
-   "Brouillon de relance prêt (16/11)",
-   "systup"
+   "Relancée le 16/11, attendre 2 semaines",
+   "systup",
+   ""
   ],
   [
    "Paris - Vallée de la Marne",
@@ -56,6 +59,7 @@
    "",
    "",
    "Surveiller leurs offres sur emploi-territorial.fr",
+   "",
    ""
   ],
   [
@@ -66,11 +70,12 @@
    "Mail",
    "recrutement@missionlocaledeparis.fr",
    "14/10/2026",
-   "Envoyée",
+   "Relancée",
    "Accusé de réception automatique",
    "14/10/2026",
-   "Brouillon de relance prêt (16/11)",
-   "mission-locale-paris"
+   "Relancée le 16/11, attendre 2 semaines",
+   "mission-locale-paris",
+   ""
   ],
   [
    "Département de la Seine-Saint-Denis",
@@ -84,7 +89,8 @@
    "Accusé de réception automatique",
    "29/10/2026",
    "Attendre 2 semaines",
-   "seine-saint-denis"
+   "seine-saint-denis",
+   ""
   ],
   [
    "Ville de Champigny-sur-Marne",
@@ -94,11 +100,12 @@
    "Mail",
    "servicerecrutement@mairie-champigny94.fr",
    "21/10/2026",
-   "Envoyée",
+   "Relancée",
    "Aucune réponse",
    "",
-   "Brouillon de relance prêt (16/11)",
-   "champigny-sur-marne"
+   "Relancée le 16/11, attendre 2 semaines",
+   "champigny-sur-marne",
+   ""
   ],
   [
    "Ville de Juvisy-sur-Orge",
@@ -112,7 +119,8 @@
    "La DRH a demandé le CV et la lettre en PDF ; envoyés le 29/10",
    "26/10/2026",
    "Cliquer sur le lien Mailinblack du 29/10 pour délivrer le mail",
-   "juvisy-sur-orge"
+   "juvisy-sur-orge",
+   ""
   ],
   [
    "Celeste",
@@ -126,7 +134,8 @@
    "",
    "",
    "Aucun mail de confirmation reçu : vérifier si le formulaire Taleez est bien parti",
-   "celeste"
+   "celeste",
+   ""
   ],
   [
    "Autorité de régulation des transports",
@@ -136,11 +145,12 @@
    "Mail",
    "donneesmobilite@autorite-transports.fr",
    "21/10/2026",
-   "Envoyée",
+   "Relancée",
    "Aucune réponse",
    "",
-   "Brouillon de relance prêt (16/11)",
-   "autorite-transports"
+   "Relancée le 16/11, attendre 2 semaines",
+   "autorite-transports",
+   ""
   ],
   [
    "Airparif",
@@ -154,7 +164,8 @@
    "Pas de stage prévu dans ce domaine",
    "22/10/2026",
    "Aucune",
-   "airparif"
+   "airparif",
+   ""
   ],
   [
    "Marne et Gondoire",
@@ -168,7 +179,8 @@
    "Demande à l'étude ; sans nouvelles sous 4 semaines : non retenue",
    "05/11/2026",
    "Sans réponse au 03/12, considérer comme non retenu",
-   "marne-et-gondoire"
+   "marne-et-gondoire",
+   ""
   ],
   [
    "Ville de Noisy-le-Grand",
@@ -182,7 +194,8 @@
    "Accusé de réception automatique",
    "29/10/2026",
    "Attendre 2 semaines",
-   "noisy-le-grand"
+   "noisy-le-grand",
+   ""
   ],
   [
    "Grand Paris Sud Est Avenir",
@@ -196,7 +209,8 @@
    "Accusé de réception automatique",
    "29/10/2026",
    "Attendre 2 semaines",
-   "gpsea"
+   "gpsea",
+   ""
   ],
   [
    "Ville de Pontault-Combault",
@@ -210,7 +224,8 @@
    "Aucune réponse",
    "",
    "Réponse annoncée sous un mois environ",
-   "pontault-combault"
+   "pontault-combault",
+   ""
   ],
   [
    "Bruitparif",
@@ -220,11 +235,12 @@
    "Mail",
    "recrutement@bruitparif.fr",
    "29/10/2026",
-   "Envoyée",
+   "Relancée",
    "Aucune réponse",
    "",
-   "Brouillon de relance prêt (16/11)",
-   "bruitparif"
+   "Relancée le 16/11, attendre 2 semaines",
+   "bruitparif",
+   ""
   ],
   [
    "Ville de Créteil",
@@ -238,7 +254,8 @@
    "Accusé de réception automatique (sans nouvelles sous 15 jours : non retenu)",
    "02/11/2026",
    "Sans réponse au 17/11, considérer comme non retenu",
-   "creteil"
+   "creteil",
+   ""
   ],
   [
    "Département du Val-de-Marne",
@@ -252,7 +269,8 @@
    "Demande transmise aux services ; sans réponse sous 2 mois : non retenue",
    "04/11/2026",
    "Attendre (réponse avant le 04/01/2027)",
-   "val-de-marne"
+   "val-de-marne",
+   ""
   ],
   [
    "Ville de Rosny-sous-Bois",
@@ -262,11 +280,12 @@
    "Mail",
    "stages@rosnysousbois.fr",
    "02/11/2026",
-   "Envoyée",
-   "Accusé de réception : le service recrutement mobilité examine le dossier",
-   "02/11/2026",
-   "Brouillon de relance prêt (16/11)",
-   "rosny-sous-bois"
+   "Relancée",
+   "Accusé de réception à la relance : le service recrutement mobilité examine le dossier",
+   "16/11/2026",
+   "Relancée le 16/11, attendre 2 semaines",
+   "rosny-sous-bois",
+   ""
   ],
   [
    "Ville de Vincennes",
@@ -280,7 +299,8 @@
    "Pas de suite favorable",
    "06/11/2026",
    "Aucune",
-   "vincennes"
+   "vincennes",
+   ""
   ],
   [
    "ORSNP IDF",
@@ -294,7 +314,8 @@
    "Cherche des M1 ou M2 pour 5 à 6 mois",
    "04/11/2026",
    "Aucune",
-   "orsnp-idf"
+   "orsnp-idf",
+   ""
   ],
   [
    "RCB Informatique",
@@ -302,12 +323,12 @@
    "Infogérance",
    "Réseaux",
    "Mail",
-   "y.rolland@rcb-informatique.fr",
-   "09/11/2026",
+   "sqy@xefi.fr (agence Xefi SQY, sur conseil de RCB)",
+   "16/11/2026",
    "Envoyée",
-   "Aucune réponse",
-   "",
-   "Relancer à partir du 23/11",
+   "Vérification d'expéditeur SpamRock demandée par l'antispam Xefi",
+   "16/11/2026",
+   "Vérifier que le lien SpamRock du 16/11 a bien été validé (sinon renvoyer le mail) ; relancer à partir du 30/11",
    "rcb-informatique",
    "01 30 49 31 10 (page Stages)"
   ],
@@ -393,11 +414,11 @@
    "Technicien",
    "Mail",
    "contact@kincy.com (adresse générale)",
+   "16/11/2026",
+   "Envoyée",
    "",
-   "À envoyer",
    "",
-   "",
-   "Brouillon Gmail prêt (lot du 16/11), CV technicien joint",
+   "Relancer à partir du 30/11",
    "kincy",
    "09 71 09 00 00 (accueil)"
   ],
@@ -408,11 +429,11 @@
    "Réseaux",
    "Mail",
    "contact@groupe-cyllene.com (adresse générale)",
+   "16/11/2026",
+   "Envoyée",
    "",
-   "À envoyer",
    "",
-   "",
-   "Brouillon Gmail prêt (lot du 16/11), CV technicien joint ; formulaire spontané possible sur groupe-cyllene.com",
+   "Relancer à partir du 30/11",
    "cyllene",
    "01 41 19 40 40 (standard)"
   ],
@@ -423,11 +444,11 @@
    "Technicien",
    "Mail",
    "contact@networkit.fr (adresse générale)",
+   "16/11/2026",
+   "Envoyée",
    "",
-   "À envoyer",
    "",
-   "",
-   "Brouillon Gmail prêt (lot du 16/11), CV technicien joint",
+   "Relancer à partir du 30/11",
    "networkit",
    "07 55 63 99 29 (numéro du site, titulaire non précisé)"
   ],
@@ -438,13 +459,73 @@
    "Technicien",
    "Mail",
    "offre_emploi@ville-kremlin-bicetre.fr",
+   "16/11/2026",
+   "Envoyée",
+   "Accusé de réception automatique",
+   "16/11/2026",
+   "Relancer à partir du 30/11",
+   "kremlin-bicetre",
+   ""
+  ],
+  [
+   "Safran Electrical & Power",
+   "Chatou (78)",
+   "Grand groupe (aéronautique)",
+   "Réseaux",
+   "Portail",
+   "Offre réf. 2026-192666 sur safran.profils.org",
    "",
    "À envoyer",
    "",
    "",
-   "Brouillon Gmail prêt (lot du 16/11), CV joint ; joindre la lettre PDF",
-   "kremlin-bicetre",
+   "Postuler sur le portail Safran (CV réseaux + lettre PDF)",
+   "safran-chatou",
    ""
+  ],
+  [
+   "SPIE ICS",
+   "Île-de-France",
+   "Grand groupe (services numériques)",
+   "Technicien",
+   "Portail",
+   "Offre réf. 2024-33943 sur spie-job.com",
+   "",
+   "À envoyer",
+   "",
+   "",
+   "Postuler sur spie-job.com (CV technicien + lettre PDF)",
+   "spie-ics",
+   ""
+  ],
+  [
+   "Renault Group",
+   "Guyancourt (78)",
+   "Grand groupe (automobile)",
+   "Technicien",
+   "Portail",
+   "Offre CS27 Bac+2/3 sur le portail Workday Renault",
+   "",
+   "À envoyer",
+   "",
+   "",
+   "Vérifier que l'offre est encore en ligne, puis postuler",
+   "renault",
+   "01 53 23 55 55 (standard du siège)"
+  ],
+  [
+   "Groupe Poisson",
+   "Tournan-en-Brie (77)",
+   "ETI privée (DSI d'un groupe TP)",
+   "Technicien",
+   "Portail",
+   "Offre HelloWork du 27/10/2026",
+   "",
+   "À envoyer",
+   "",
+   "",
+   "Postuler via HelloWork (CV technicien + lettre PDF)",
+   "groupe-poisson",
+   "01 64 42 59 50 (standard du siège)"
   ]
  ]
 }

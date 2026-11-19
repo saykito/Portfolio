@@ -1,4 +1,5 @@
 [
  {"date": "2026-11-09", "heure": "9h57", "declenchement": "Lancé à la demande", "statut": "Réussi", "duree_min": 20, "entreprises": 5, "pages": 5, "brouillons": 5, "relances": 0},
- {"date": "2026-11-16", "heure": "7h56", "declenchement": "Automatique", "statut": "Réussi", "duree_min": 40, "entreprises": 5, "pages": 5, "brouillons": 4, "relances": 7}
+ {"date": "2026-11-16", "heure": "7h56", "declenchement": "Automatique", "statut": "Réussi", "duree_min": 40, "entreprises": 5, "pages": 5, "brouillons": 4, "relances": 7},
+ {"date": "2026-11-19", "heure": "7h56", "declenchement": "Automatique", "statut": "Réussi", "duree_min": 35, "entreprises": 4, "pages": 4, "brouillons": 0, "relances": 0}
 ]
